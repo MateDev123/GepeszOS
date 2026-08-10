@@ -1,5 +1,61 @@
 [
   {
+    "Name": "Google Chrome",
+    "Category": "Browser",
+    "Url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "Description": "Web Browser",
+    "Size": "1.5 MB (installer)",
+    "Version": "138.0.7204.100"
+  },
+  {
+    "Name": "Mozilla Firefox",
+    "Category": "Browser",
+    "Url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
+    "Description": "Web Browser",
+    "Size": "62 MB",
+    "Version": "140.0.2"
+  },
+  {
+    "Name": "Brave Browser",
+    "Category": "Browser",
+    "Url": "https://laptop-updates.brave.com/latest/winx64",
+    "Description": "Web Browser",
+    "Size": "1.6 MB (installer)",
+    "Version": "1.78.112"
+  },
+  {
+    "Name": "Opera Browser",
+    "Category": "Browser",
+    "Url": "https://download.opera.com/download?platform=windows&arch=x64",
+    "Description": "Web Browser",
+    "Size": "2.8 MB (installer)",
+    "Version": "122.0.5622.111"
+  },
+  {
+    "Name": "Microsoft Edge",
+    "Category": "Browser",
+    "Url": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=en",
+    "Description": "Web Browser",
+    "Size": "2.0 MB (installer)",
+    "Version": "138.0.3351.109"
+  },
+  {
+    "Name": "Tor Browser",
+    "Category": "Browser",
+    "Url": "https://www.torproject.org/dist/torbrowser/14.5.2/torbrowser-install-win64-14.5.2_ALL.exe",
+    "Description": "Anonymous Browser",
+    "Size": "135 MB",
+    "Version": "14.5.2"
+  },
+  {
+    "Name": "Mullvad Browser",
+    "Category": "Browser",
+    "Url": "https://mullvad.net/en/browser/windows/download",
+    "Description": "Privacy Web Browser",
+    "Size": "140 MB",
+    "Version": "14.5.2"
+  },
+  {
     "Name": "BitTorrent",
     "Category": "Network",
     "Url": "https://download-new.utorrent.com/endpoint/bittorrent/os/windows/track/stable/",
