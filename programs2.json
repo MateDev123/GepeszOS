@@ -1,466 +1,10 @@
 [
   {
-    "Name": "Google Chrome",
-    "Category": "Browser",
-    "Url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
-    "Description": "Web Browser",
-    "Size": "1.3 MB (installer)",
-    "Version": "129.0.6668.90"
-  },
-  {
-    "Name": "Mozilla Firefox",
-    "Category": "Browser",
-    "Url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
-    "Description": "Web Browser",
-    "Size": "55 MB",
-    "Version": "131.0.3"
-  },
-  {
-    "Name": "Discord",
-    "Category": "Communication",
-    "Url": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9158/DiscordSetup.exe",
-    "Description": "Chat / Voice",
-    "Size": "90 MB",
-    "Version": "1.0.9158"
-  },
-  {
-    "Name": "Steam",
-    "Category": "Gaming",
-    "Url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
-    "Description": "Game Client",
-    "Size": "2.3 MB (installer)",
-    "Version": "2025.10 build"
-  },
-  {
-    "Name": "Spotify",
-    "Category": "Media",
-    "Url": "https://download.scdn.co/SpotifySetup.exe",
-    "Description": "Music Player",
-    "Size": "1.1 MB (installer)",
-    "Version": "1.2.51"
-  },
-  {
-    "Name": "WinRAR",
-    "Category": "Utility",
-    "Url": "https://www.rarlab.com/rar/winrar-x64-702.exe",
-    "Description": "File Archiver",
-    "Size": "3.6 MB",
-    "Version": "7.02"
-  },
-  {
-    "Name": "Brave Browser",
-    "Category": "Browser",
-    "Url": "https://laptop-updates.brave.com/latest/winx64",
-    "Description": "Web Browser",
-    "Size": "1.4 MB (installer)",
-    "Version": "1.72.128"
-  },
-  {
-    "Name": "Git",
-    "Category": "Development",
-    "Url": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/Git-2.47.0-64-bit.exe",
-    "Description": "Version Control",
-    "Size": "54 MB",
-    "Version": "2.47.0"
-  },
-  {
-    "Name": "Adobe Acrobat Reader",
-    "Category": "Utility",
-    "Url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400920553/AcroRdrDCx642400920553_MUI.exe",
-    "Description": "PDF Reader",
-    "Size": "298 MB",
-    "Version": "2024.009.20553"
-  },
-  {
-    "Name": "Blender",
-    "Category": "Media",
-    "Url": "https://mirrors.ocf.berkeley.edu/blender/release/Blender4.2/blender-4.2.3-windows-x64.msi",
-    "Description": "3D Graphics",
-    "Size": "295 MB",
-    "Version": "4.2.3"
-  },
-  {
-    "Name": "CCleaner",
-    "Category": "Utility",
-    "Url": "https://bits.avcdn.net/productfamily_AMP/win/ccleaner_free",
-    "Description": "System Cleaner",
-    "Size": "55 MB",
-    "Version": "6.25.11082"
-  },
-  {
-    "Name": "CPU-Z",
-    "Category": "Utility",
-    "Url": "https://download.cpuid.com/cpu-z/cpu-z_2.11-en.exe",
-    "Description": "System Info",
-    "Size": "2.1 MB",
-    "Version": "2.11"
-  },
-  {
-    "Name": "GPU-Z",
-    "Category": "Utility",
-    "Url": "https://us2-dl.techpowerup.com/files/GPU-Z.2.59.0.exe",
-    "Description": "GPU Information",
-    "Size": "11 MB",
-    "Version": "2.59.0"
-  },
-  {
-    "Name": "HWMonitor",
-    "Category": "Utility",
-    "Url": "https://download.cpuid.com/hwmonitor/hwmonitor_1.54.exe",
-    "Description": "Hardware Monitor",
-    "Size": "2 MB",
-    "Version": "1.54"
-  },
-  {
-    "Name": "TeamViewer",
-    "Category": "Utility",
-    "Url": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
-    "Description": "Remote Access",
-    "Size": "52 MB",
-    "Version": "15.60.3"
-  },
-  {
-    "Name": "AnyDesk",
-    "Category": "Utility",
-    "Url": "https://download.anydesk.com/AnyDesk.exe",
-    "Description": "Remote Access",
-    "Size": "5.6 MB",
-    "Version": "8.0.10"
-  },
-  {
-    "Name": "Revo Uninstaller",
-    "Category": "Utility",
-    "Url": "https://download.revouninstaller.com/download/revosetup.exe",
-    "Description": "App Uninstaller",
-    "Size": "17 MB",
-    "Version": "2.4.5"
-  },
-  {
-    "Name": "Speccy",
-    "Category": "Utility",
-    "Url": "https://download.ccleaner.com/spsetup132.exe",
-    "Description": "System Info",
-    "Size": "9 MB",
-    "Version": "1.32.803"
-  },
-  {
-    "Name": "CrystalDiskInfo",
-    "Category": "Utility",
-    "Url": "https://osdn.net/frs/redir.php?m=gigenet&f=crystaldiskinfo%2F91975%2FCrystalDiskInfo9_5_3.exe",
-    "Description": "Disk Health Monitor",
-    "Size": "5.3 MB",
-    "Version": "9.5.3"
-  },
-  {
-    "Name": "Rufus",
-    "Category": "Utility",
-    "Url": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6.exe",
-    "Description": "Bootable USB Creator",
-    "Size": "1.5 MB",
-    "Version": "4.6"
-  },
-  {
-    "Name": "GIMP",
-    "Category": "Media",
-    "Url": "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.38-setup.exe",
-    "Description": "Image Editor",
-    "Size": "300 MB",
-    "Version": "2.10.38"
-  },
-  {
-    "Name": "Krita",
-    "Category": "Media",
-    "Url": "https://download.kde.org/stable/krita/5.2.3/krita-x64-5.2.3-setup.exe",
-    "Description": "Digital Painting",
-    "Size": "155 MB",
-    "Version": "5.2.3"
-  },
-  {
-    "Name": "Inkscape",
-    "Category": "Media",
-    "Url": "https://media.inkscape.org/dl/resources/file/inkscape-1.3.2_2024-06-05_091e20ef0c-x64.exe",
-    "Description": "Vector Graphics",
-    "Size": "124 MB",
-    "Version": "1.3.2"
-  },
-  {
-    "Name": "Audacity",
-    "Category": "Media",
-    "Url": "https://github.com/audacity/audacity/releases/download/Audacity-3.5.1/audacity-win-3.5.1-x64.exe",
-    "Description": "Audio Editor",
-    "Size": "37 MB",
-    "Version": "3.5.1"
-  },
-  {
-    "Name": "DaVinci Resolve",
-    "Category": "Media",
-    "Url": "https://www.blackmagicdesign.com/api/register/us/download/dfb7de0f56ce4c1b86e1f961a601f52a/DaVinci_Resolve_19.0_Windows.zip",
-    "Description": "Video Editor",
-    "Size": "3.5 GB",
-    "Version": "19.0"
-  },
-  {
-    "Name": "Shotcut",
-    "Category": "Media",
-    "Url": "https://github.com/mltframework/shotcut/releases/download/v24.06.27/shotcut-win64-240627.exe",
-    "Description": "Video Editor",
-    "Size": "114 MB",
-    "Version": "24.06.27"
-  },
-  {
-    "Name": "HandBrake",
-    "Category": "Media",
-    "Url": "https://github.com/HandBrake/HandBrake/releases/download/1.8.1/HandBrake-1.8.1-x86_64-Win_GUI.exe",
-    "Description": "Video Converter",
-    "Size": "22 MB",
-    "Version": "1.8.1"
-  },
-  {
-    "Name": "Paint.NET",
-    "Category": "Media",
-    "Url": "https://www.dotpdn.com/files/paint.net.5.0.13.install.anycpu.web.zip",
-    "Description": "Image Editor",
-    "Size": "1.3 MB (installer)",
-    "Version": "5.0.13"
-  },
-  {
-    "Name": "LMMS",
-    "Category": "Media",
-    "Url": "https://github.com/LMMS/lmms/releases/download/v1.3.0/lmms-1.3.0-win64.exe",
-    "Description": "Music Production",
-    "Size": "38 MB",
-    "Version": "1.3.0"
-  },
-  {
-    "Name": "OpenShot",
-    "Category": "Media",
-    "Url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.2.1/OpenShot-v3.2.1-x86_64.exe",
-    "Description": "Video Editor",
-    "Size": "192 MB",
-    "Version": "3.2.1"
-  },
-  {
-    "Name": "Python",
-    "Category": "Development",
-    "Url": "https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe",
-    "Description": "Programming Language",
-    "Size": "27 MB",
-    "Version": "3.13.0"
-  },
-  {
-    "Name": "Node.js",
-    "Category": "Development",
-    "Url": "https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi",
-    "Description": "JavaScript Runtime",
-    "Size": "36 MB",
-    "Version": "22.9.0"
-  },
-  {
-    "Name": "GitHub Desktop",
-    "Category": "Development",
-    "Url": "https://central.github.com/deployments/desktop/desktop/latest/win32",
-    "Description": "Version Control GUI",
-    "Size": "120 MB",
-    "Version": "3.4.6"
-  },
-  {
-    "Name": "Visual Studio Community",
-    "Category": "Development",
-    "Url": "https://aka.ms/vs/17/release/vs_community.exe",
-    "Description": "IDE",
-    "Size": "1.7 MB (installer)",
-    "Version": "17.11.4"
-  },
-  {
-    "Name": "JetBrains IntelliJ IDEA Community",
-    "Category": "Development",
-    "Url": "https://download.jetbrains.com/idea/ideaIC-2024.2.3.exe",
-    "Description": "Java IDE",
-    "Size": "710 MB",
-    "Version": "2024.2.3"
-  },
-  {
-    "Name": "Postman",
-    "Category": "Development",
-    "Url": "https://dl.pstmn.io/download/latest/win64",
-    "Description": "API Development",
-    "Size": "142 MB",
-    "Version": "11.15.0"
-  },
-  {
-    "Name": "Docker Desktop",
-    "Category": "Development",
-    "Url": "https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe",
-    "Description": "Container Platform",
-    "Size": "622 MB",
-    "Version": "4.33.1"
-  },
-  {
-    "Name": "MySQL Workbench",
-    "Category": "Development",
-    "Url": "https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.39-winx64.msi",
-    "Description": "Database Management",
-    "Size": "49 MB",
-    "Version": "8.0.39"
-  },
-  {
-    "Name": "XAMPP",
-    "Category": "Development",
-    "Url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download",
-    "Description": "Local Server Stack",
-    "Size": "153 MB",
-    "Version": "8.2.12"
-  },
-  {
-    "Name": "PuTTY",
-    "Category": "Development",
-    "Url": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.81-installer.msi",
-    "Description": "SSH/Telnet Client",
-    "Size": "2.8 MB",
-    "Version": "0.81"
-  },
-  {
-    "Name": "Skype",
-    "Category": "Communication",
-    "Url": "https://download.skype.com/s4l/download/win/Skype-8.123.0.204.exe",
-    "Description": "Video Chat",
-    "Size": "88 MB",
-    "Version": "8.123.0.204"
-  },
-  {
-    "Name": "Telegram Desktop",
-    "Category": "Communication",
-    "Url": "https://updates.tdesktop.com/tsetup/tsetup-x64.5.9.1.exe",
-    "Description": "Messaging",
-    "Size": "69 MB",
-    "Version": "5.9.1"
-  },
-  {
-    "Name": "WhatsApp Desktop",
-    "Category": "Communication",
-    "Url": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe",
-    "Description": "Messaging",
-    "Size": "135 MB",
-    "Version": "2.2438.5.0"
-  },
-  {
-    "Name": "Zoom",
-    "Category": "Communication",
-    "Url": "https://cdn.zoom.us/prod/6.2.3.38050/x64/ZoomInstallerFull.exe",
-    "Description": "Video Conference",
-    "Size": "92 MB",
-    "Version": "6.2.3"
-  },
-  {
-    "Name": "Microsoft Teams",
-    "Category": "Communication",
-    "Url": "https://go.microsoft.com/fwlink/p/?LinkID=869428&clcid=0x409&culture=en-us&country=US",
-    "Description": "Collaboration",
-    "Size": "120 MB",
-    "Version": "24102.3208.3068.8819"
-  },
-  {
-    "Name": "Slack",
-    "Category": "Communication",
-    "Url": "https://downloads.slack-edge.com/desktop-releases/windows/x64/SlackSetup.exe",
-    "Description": "Team Chat",
-    "Size": "120 MB",
-    "Version": "4.41.98"
-  },
-  {
-    "Name": "Signal Desktop",
-    "Category": "Communication",
-    "Url": "https://updates.signal.org/desktop/signal-desktop-win-7.27.0.exe",
-    "Description": "Secure Messaging",
-    "Size": "120 MB",
-    "Version": "7.27.0"
-  },
-  {
-    "Name": "Viber",
-    "Category": "Communication",
-    "Url": "https://download.cdn.viber.com/desktop/windows/ViberSetup.exe",
-    "Description": "Messaging / Calls",
-    "Size": "125 MB",
-    "Version": "21.0.0.0"
-  },
-  {
-    "Name": "Element",
-    "Category": "Communication",
-    "Url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.11.70.exe",
-    "Description": "Matrix Chat Client",
-    "Size": "110 MB",
-    "Version": "1.11.70"
-  },
-  {
-    "Name": "Opera Browser",
-    "Category": "Network",
-    "Url": "https://net.geo.opera.com/opera/stable/windows",
-    "Description": "Web Browser",
-    "Size": "2.4 MB (installer)",
-    "Version": "115.0.5231.63"
-  },
-  {
-    "Name": "Microsoft Edge",
-    "Category": "Network",
-    "Url": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=en",
-    "Description": "Web Browser",
-    "Size": "1.8 MB (installer)",
-    "Version": "129.0.2792.52"
-  },
-  {
-    "Name": "Tor Browser",
-    "Category": "Network",
-    "Url": "https://www.torproject.org/dist/torbrowser/14.0.3/torbrowser-install-win64-14.0.3_ALL.exe",
-    "Description": "Anonymous Browser",
-    "Size": "120 MB",
-    "Version": "14.0.3"
-  },
-  {
-    "Name": "FileZilla Client",
-    "Category": "Network",
-    "Url": "https://download.filezilla-project.org/client/FileZilla_3.67.1_win64-setup.exe",
-    "Description": "FTP Client",
-    "Size": "11 MB",
-    "Version": "3.67.1"
-  },
-  {
-    "Name": "uTorrent Classic",
-    "Category": "Network",
-    "Url": "https://download-new.utorrent.com/installer/uTorrent.exe",
-    "Description": "BitTorrent Client",
-    "Size": "2 MB",
-    "Version": "3.6.0"
-  },
-  {
-    "Name": "NordVPN",
-    "Category": "Network",
-    "Url": "https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe",
-    "Description": "VPN Client",
-    "Size": "52 MB",
-    "Version": "8.4.6"
-  },
-  {
-    "Name": "ProtonVPN",
-    "Category": "Network",
-    "Url": "https://protonvpn.com/download/ProtonVPN_win_v3.3.2.exe",
-    "Description": "VPN Client",
-    "Size": "29 MB",
-    "Version": "3.3.2"
-  },
-  {
-    "Name": "Wireshark",
-    "Category": "Network",
-    "Url": "https://1.as.dl.wireshark.org/win64/Wireshark-win64-4.4.2.exe",
-    "Description": "Network Analyzer",
-    "Size": "81 MB",
-    "Version": "4.4.2"
-  },
-  {
     "Name": "BitTorrent",
     "Category": "Network",
     "Url": "https://download-new.utorrent.com/endpoint/bittorrent/os/windows/track/stable/",
     "Description": "Torrent Client",
-    "Size": "2 MB",
+    "Size": "2.5 MB (installer)",
     "Version": "7.11.0"
   },
   {
@@ -469,7 +13,7 @@
     "Url": "https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/MBSetup.exe",
     "Description": "Anti-Malware",
     "Size": "2.5 MB (installer)",
-    "Version": "5.1.5.110"
+    "Version": "5.1.11"
   },
   {
     "Name": "Avast Free Antivirus",
@@ -477,7 +21,7 @@
     "Url": "https://files.avast.com/iavs9x/avast_free_antivirus_setup_online.exe",
     "Description": "Antivirus",
     "Size": "2.6 MB (installer)",
-    "Version": "25.10.4803"
+    "Version": "24.8.9388"
   },
   {
     "Name": "AVG AntiVirus Free",
@@ -485,30 +29,30 @@
     "Url": "https://files-download.avg.com/inst/mp/Antivirus_Free_Installer.exe",
     "Description": "Antivirus",
     "Size": "2.5 MB (installer)",
-    "Version": "25.10.4803"
+    "Version": "24.8.9388"
   },
   {
     "Name": "Bitdefender Antivirus Free",
     "Category": "Security",
     "Url": "https://download.bitdefender.com/windows/bp/agent/en-us/bitdefender_online.exe",
     "Description": "Antivirus",
-    "Size": "13 MB",
-    "Version": "27.0.32.130"
+    "Size": "14 MB",
+    "Version": "27.0.35.140"
   },
   {
     "Name": "Kaspersky Standard",
     "Category": "Security",
-    "Url": "https://products.s.kaspersky-labs.com/homeuser/kaspersky_standard/latest/ks4.021.0.12.885en_34346.exe",
+    "Url": "https://www.kaspersky.com/downloads/standard",
     "Description": "Antivirus",
     "Size": "3 MB (installer)",
-    "Version": "21.12.12.885"
+    "Version": "21.16.6.467"
   },
   {
     "Name": "GlassWire",
     "Category": "Security",
     "Url": "https://download.glasswire.com/GlassWireSetup.exe",
     "Description": "Network Monitor / Firewall",
-    "Size": "79 MB",
+    "Size": "72 MB",
     "Version": "3.3.680"
   },
   {
@@ -522,57 +66,57 @@
   {
     "Name": "Total Commander",
     "Category": "Utility",
-    "Url": "https://totalcommander.ch/win/tcmd1050x64.exe",
+    "Url": "https://totalcommander.ch/win/tcmd1103x64.exe",
     "Description": "File Manager",
-    "Size": "9 MB",
-    "Version": "10.50"
+    "Size": "9.5 MB",
+    "Version": "11.03"
   },
   {
     "Name": "FreeCommander XE",
     "Category": "Utility",
-    "Url": "https://freecommander.com/downloads/FreeCommanderXE-64-public_setup829.exe",
+    "Url": "https://freecommander.com/downloads/FreeCommanderXE-64-public_setup.zip",
     "Description": "File Manager",
-    "Size": "13 MB",
-    "Version": "2025 Build 829"
+    "Size": "15 MB",
+    "Version": "2024 Build 901"
   },
   {
     "Name": "WinSCP",
     "Category": "Utility",
-    "Url": "https://winscp.net/download/WinSCP-6.3.4-Setup.exe",
+    "Url": "https://winscp.net/download/WinSCP-6.3.5-Setup.exe",
     "Description": "FTP/SFTP Client",
     "Size": "11 MB",
-    "Version": "6.3.4"
+    "Version": "6.3.5"
   },
   {
     "Name": "Everything",
     "Category": "Utility",
     "Url": "https://www.voidtools.com/Everything-1.4.1.1026.x64-Setup.exe",
     "Description": "File Search Engine",
-    "Size": "2 MB",
+    "Size": "1.7 MB",
     "Version": "1.4.1.1026"
   },
   {
     "Name": "SyncThing",
     "Category": "Utility",
-    "Url": "https://github.com/syncthing/syncthing/releases/download/v1.29.2/syncthing-windows-amd64-v1.29.2.zip",
+    "Url": "https://github.com/syncthing/syncthing/releases/download/v1.28.0/syncthing-windows-amd64-v1.28.0.zip",
     "Description": "File Synchronization",
     "Size": "14 MB",
-    "Version": "1.29.2"
+    "Version": "1.28.0"
   },
   {
     "Name": "FreeFileSync",
     "Category": "Utility",
-    "Url": "https://freefilesync.org/download/FreeFileSync_13.6_Windows_Setup.exe",
+    "Url": "https://freefilesync.org/download/FreeFileSync_13.7_Windows_Setup.exe",
     "Description": "Folder Sync & Backup",
     "Size": "22 MB",
-    "Version": "13.6"
+    "Version": "13.7"
   },
   {
     "Name": "TeraCopy",
     "Category": "Utility",
     "Url": "https://www.codesector.com/files/teracopy.exe",
     "Description": "File Transfer Utility",
-    "Size": "10 MB",
+    "Size": "11 MB",
     "Version": "3.17"
   },
   {
@@ -580,16 +124,16 @@
     "Category": "Utility",
     "Url": "https://www.7-zip.org/a/7z2408-x64.exe",
     "Description": "File Archiver",
-    "Size": "3 MB",
+    "Size": "1.6 MB",
     "Version": "24.08"
   },
   {
     "Name": "PeaZip",
     "Category": "Utility",
-    "Url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip-10.5.0.WIN64.exe",
+    "Url": "https://github.com/peazip/PeaZip/releases/download/10.1.0/peazip-10.1.0.WIN64.exe",
     "Description": "File Archiver",
-    "Size": "12 MB",
-    "Version": "10.5.0"
+    "Size": "11 MB",
+    "Version": "10.1.0"
   },
   {
     "Name": "UltraSearch",
@@ -602,42 +146,42 @@
   {
     "Name": "MPC-HC",
     "Category": "Media",
-    "Url": "https://github.com/clsid2/mpc-hc/releases/download/2.3.1/MPC-HC.2.3.1.x64.exe",
+    "Url": "https://github.com/clsid2/mpc-hc/releases/download/2.3.6/MPC-HC.2.3.6.x64.exe",
     "Description": "Video Player",
-    "Size": "19 MB",
-    "Version": "2.3.1"
+    "Size": "21 MB",
+    "Version": "2.3.6"
   },
   {
     "Name": "PotPlayer",
     "Category": "Media",
     "Url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe",
     "Description": "Video Player",
-    "Size": "31 MB",
-    "Version": "1.7.22232"
+    "Size": "35 MB",
+    "Version": "1.7.22344"
   },
   {
     "Name": "KMPlayer",
     "Category": "Media",
-    "Url": "https://cdn.kmplayer.com/KMP/Installers/KMPlayer64-2025.10.23.exe",
+    "Url": "https://cdn.kmplayer.com/KMP/Installers/KMPlayer64-2024.9.25.13.exe",
     "Description": "Video Player",
-    "Size": "45 MB",
-    "Version": "2025.10.23"
+    "Size": "48 MB",
+    "Version": "2024.9.25.13"
   },
   {
     "Name": "AIMP",
     "Category": "Media",
-    "Url": "https://aimp.ru/files/windows/builds/aimp_5.30.2558_w32.exe",
+    "Url": "https://aimp.ru/files/windows/builds/aimp_5.30.2563_w32.exe",
     "Description": "Music Player",
     "Size": "15 MB",
-    "Version": "5.30.2558"
+    "Version": "5.30.2563"
   },
   {
     "Name": "iTunes",
     "Category": "Media",
-    "Url": "https://secure-appldnld.apple.com/itunes12/061-90375-20241010-86B5F3BB-9A9A-4CE8-BAE7-EBF04F57C94C/iTunes64Setup.exe",
+    "Url": "https://www.apple.com/itunes/download/win64",
     "Description": "Music Manager",
-    "Size": "202 MB",
-    "Version": "12.13.2.3"
+    "Size": "200 MB",
+    "Version": "12.13.3.2"
   },
   {
     "Name": "VLC Media Player",
@@ -650,18 +194,18 @@
   {
     "Name": "Kodi",
     "Category": "Media",
-    "Url": "https://mirrors.kodi.tv/releases/windows/win64/kodi-21.0-Omega-x64.exe",
+    "Url": "https://mirrors.kodi.tv/releases/windows/win64/kodi-21.1-Omega-x64.exe",
     "Description": "Home Theater Player",
-    "Size": "73 MB",
-    "Version": "21.0 Omega"
+    "Size": "75 MB",
+    "Version": "21.1 Omega"
   },
   {
     "Name": "foobar2000",
     "Category": "Media",
-    "Url": "https://www.foobar2000.org/files/foobar2000-x64_v2.2.exe",
+    "Url": "https://www.foobar2000.org/files/foobar2000-x64_v2.1.6.exe",
     "Description": "Audio Player",
     "Size": "6 MB",
-    "Version": "2.2"
+    "Version": "2.1.6"
   },
   {
     "Name": "MediaMonkey",
@@ -677,7 +221,7 @@
     "Url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
     "Description": "Game Launcher",
     "Size": "168 MB",
-    "Version": "2025.10"
+    "Version": "16.10.0"
   },
   {
     "Name": "EA App",
@@ -685,31 +229,31 @@
     "Url": "https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe",
     "Description": "Game Client",
     "Size": "117 MB",
-    "Version": "14.329.0.5829"
+    "Version": "13.300.0"
   },
   {
     "Name": "Battle.net",
     "Category": "Gaming",
     "Url": "https://us.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe",
     "Description": "Game Launcher",
-    "Size": "6 MB",
-    "Version": "2.23.0"
+    "Size": "5 MB (installer)",
+    "Version": "2.33.0"
   },
   {
     "Name": "Ubisoft Connect",
     "Category": "Gaming",
     "Url": "https://ubi.li/4vxt9",
     "Description": "Game Launcher",
-    "Size": "188 MB",
-    "Version": "159.1.0"
+    "Size": "210 MB",
+    "Version": "150.0"
   },
   {
     "Name": "Xbox App",
     "Category": "Gaming",
     "Url": "https://aka.ms/xboxappdownload",
     "Description": "Game Library / Cloud",
-    "Size": "600 MB",
-    "Version": "2025.10"
+    "Size": "3.5 MB (installer)",
+    "Version": "2409.1001.4.0"
   },
   {
     "Name": "MSI Afterburner",
@@ -717,14 +261,14 @@
     "Url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip",
     "Description": "GPU Tuning Utility",
     "Size": "52 MB",
-    "Version": "4.6.6.17045"
+    "Version": "4.6.5"
   },
   {
     "Name": "Razer Synapse",
     "Category": "Gaming",
     "Url": "https://rzr.to/synapse-3-pc-download",
     "Description": "Peripheral Configuration",
-    "Size": "136 MB",
+    "Size": "5 MB (installer)",
     "Version": "3.9.1030.120417"
   },
   {
@@ -741,7 +285,7 @@
     "Url": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe",
     "Description": "Peripheral Configuration",
     "Size": "40 MB",
-    "Version": "2025.10"
+    "Version": "2024.7"
   },
   {
     "Name": "Google Drive for Desktop",
@@ -749,7 +293,7 @@
     "Url": "https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe",
     "Description": "Cloud Storage",
     "Size": "313 MB",
-    "Version": "93.0.4.0"
+    "Version": "98.0.0.0"
   },
   {
     "Name": "Dropbox",
@@ -757,28 +301,28 @@
     "Url": "https://www.dropbox.com/download?plat=win",
     "Description": "Cloud Storage",
     "Size": "2.4 MB (installer)",
-    "Version": "205.4.5506"
+    "Version": "208.4.5824"
   },
   {
     "Name": "Microsoft OneDrive",
     "Category": "Cloud",
     "Url": "https://go.microsoft.com/fwlink/p/?linkid=844652",
     "Description": "Cloud Storage",
-    "Size": "55 MB",
-    "Version": "24.211.1005.0001"
+    "Size": "62 MB",
+    "Version": "24.181.0908.0001"
   },
   {
     "Name": "MegaSync",
     "Category": "Cloud",
     "Url": "https://mega.nz/MEGAsyncSetup64.exe",
     "Description": "Cloud Storage",
-    "Size": "92 MB",
-    "Version": "5.3.2"
+    "Size": "95 MB",
+    "Version": "5.4.0"
   },
   {
     "Name": "pCloud Drive",
     "Category": "Cloud",
-    "Url": "https://p-def2.pcloud.com/cBZ5ZGVsXZ7UjZGHZQ7ZxZhZgZl7ZGNZQpZRZ6ZGVZQKZlZ3ZQIZWZHZ4ZQwZRZ3ZQZQZQpZQZQ/pcloud_setup.exe",
+    "Url": "https://www.pcloud.com/download-free-online-cloud-storage.html",
     "Description": "Cloud Storage",
     "Size": "31 MB",
     "Version": "4.2.3"
@@ -789,7 +333,7 @@
     "Url": "https://d.sync.com/download/windows/Sync-Installer.exe",
     "Description": "Cloud Backup",
     "Size": "28 MB",
-    "Version": "3.14.0"
+    "Version": "3.1.4"
   },
   {
     "Name": "Icedrive",
@@ -813,7 +357,7 @@
     "Url": "https://www.backblaze.com/win32/install_backblaze.exe",
     "Description": "Cloud Backup",
     "Size": "14 MB",
-    "Version": "8.6.1.671"
+    "Version": "9.0.0"
   },
   {
     "Name": "Resilio Sync",
@@ -828,8 +372,8 @@
     "Category": "Media",
     "Url": "https://creativecloud.adobe.com/apps/download/lightroom-classic",
     "Description": "Photo Editor",
-    "Size": "1.2 MB (installer)",
-    "Version": "13.5.1"
+    "Size": "2 MB (installer)",
+    "Version": "13.5"
   },
   {
     "Name": "Darktable",
@@ -869,23 +413,23 @@
     "Url": "https://download.xnview.com/XnViewMP-win-x64.exe",
     "Description": "Image Viewer & Organizer",
     "Size": "56 MB",
-    "Version": "1.7.2"
+    "Version": "1.8.0"
   },
   {
     "Name": "Greenshot",
     "Category": "Media",
-    "Url": "https://github.com/greenshot/greenshot/releases/download/RELEASE-1.3.274/Greenshot-INSTALLER-1.3.274-UNSTABLE.exe",
+    "Url": "https://github.com/greenshot/greenshot/releases/download/v1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe",
     "Description": "Screenshot Tool",
-    "Size": "2 MB",
-    "Version": "1.3.274"
+    "Size": "3 MB",
+    "Version": "1.2.10.6"
   },
   {
     "Name": "ShareX",
     "Category": "Media",
-    "Url": "https://github.com/ShareX/ShareX/releases/download/v15.0.1/ShareX-15.0.1-setup.exe",
+    "Url": "https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-setup.exe",
     "Description": "Screen Capture / Recorder",
     "Size": "11 MB",
-    "Version": "15.0.1"
+    "Version": "16.1.0"
   },
   {
     "Name": "Snagit",
@@ -893,30 +437,30 @@
     "Url": "https://download.techsmith.com/snagit/releases/2401/snagit.exe",
     "Description": "Screen Capture & Editing",
     "Size": "312 MB",
-    "Version": "24.1.2"
+    "Version": "2024.2.1"
   },
   {
     "Name": "OBS Studio",
     "Category": "Media",
-    "Url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1.2-Full-Installer-x64.exe",
+    "Url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.2-Full-Installer-x64.exe",
     "Description": "Screen Recording / Streaming",
-    "Size": "130 MB",
-    "Version": "30.1.2"
+    "Size": "132 MB",
+    "Version": "30.2.2"
   },
   {
     "Name": "Microsoft PowerToys",
     "Category": "Utility",
-    "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysUserSetup-0.87.1-x64.exe",
+    "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.85.0/PowerToysUserSetup-0.85.0-x64.exe",
     "Description": "Windows Enhancement Tools",
     "Size": "182 MB",
-    "Version": "0.87.1"
+    "Version": "0.85.0"
   },
   {
     "Name": "Rainmeter",
     "Category": "Utility",
     "Url": "https://github.com/rainmeter/rainmeter/releases/download/v4.5.19.3776/Rainmeter-4.5.19.exe",
     "Description": "Desktop Customization",
-    "Size": "3 MB",
+    "Size": "2.5 MB",
     "Version": "4.5.19"
   },
   {
@@ -925,7 +469,7 @@
     "Url": "https://www.autohotkey.com/download/ahk-v2.exe",
     "Description": "Automation Scripting",
     "Size": "5 MB",
-    "Version": "2.0.17"
+    "Version": "2.0.18"
   },
   {
     "Name": "WinDirStat",
@@ -938,26 +482,26 @@
   {
     "Name": "TreeSize Free",
     "Category": "Utility",
-    "Url": "https://downloads.jam-software.de/treesize_free/TreeSizeFree-4.7.1-Setup.exe",
+    "Url": "https://downloads.jam-software.de/treesize_free/TreeSizeFree-4.7.2-Setup.exe",
     "Description": "Disk Space Analyzer",
-    "Size": "9 MB",
-    "Version": "4.7.1"
+    "Size": "11 MB",
+    "Version": "4.7.2"
   },
   {
     "Name": "Everything Toolbar",
     "Category": "Utility",
-    "Url": "https://github.com/stnkl/EverythingToolbar/releases/download/1.1.3/EverythingToolbar-1.1.3.exe",
+    "Url": "https://github.com/stnkl/EverythingToolbar/releases/download/1.3.0/EverythingToolbar-1.3.0.exe",
     "Description": "File Search Integration",
-    "Size": "4 MB",
-    "Version": "1.1.3"
+    "Size": "5 MB",
+    "Version": "1.3.0"
   },
   {
     "Name": "PowerISO",
     "Category": "Utility",
-    "Url": "https://poweriso.com/PowerISO7-x64.exe",
+    "Url": "https://www.poweriso.com/PowerISO8-x64.exe",
     "Description": "ISO Manager",
     "Size": "5.5 MB",
-    "Version": "7.0"
+    "Version": "8.8"
   },
   {
     "Name": "Daemon Tools Lite",
@@ -965,9 +509,8 @@
     "Url": "https://mirror.daemon-tools.cc/downloads/DTLiteInstaller.exe",
     "Description": "Virtual Drive Manager",
     "Size": "1.1 MB (installer)",
-    "Version": "11.1.0.2077"
+    "Version": "11.2.0"
   },
-V
   {
     "Name": "CPU Control",
     "Category": "Utility",
@@ -981,16 +524,16 @@ V
     "Category": "Utility",
     "Url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
     "Description": "Advanced Task Manager",
-    "Size": "2 MB",
-    "Version": "17.05"
+    "Size": "3 MB",
+    "Version": "17.06"
   },
   {
     "Name": "IObit Driver Booster",
     "Category": "Utility",
     "Url": "https://cdn.iobit.com/dl/driver_booster_setup.exe",
     "Description": "Driver Updater",
-    "Size": "28 MB",
-    "Version": "11.6.0.34"
+    "Size": "30 MB",
+    "Version": "11.6.0"
   },
   {
     "Name": "Snappy Driver Installer Origin",
@@ -998,22 +541,22 @@ V
     "Url": "https://www.snappy-driver-installer.org/download/",
     "Description": "Offline Driver Updater",
     "Size": "26 MB (core app)",
-    "Version": "1.13.2"
+    "Version": "1.12.10"
   },
   {
     "Name": "Display Driver Uninstaller",
     "Category": "Utility",
-    "Url": "https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.7.9.exe",
+    "Url": "https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.8.1.exe",
     "Description": "Driver Cleaner",
     "Size": "1.5 MB",
-    "Version": "18.0.7.9"
+    "Version": "18.0.8.1"
   },
   {
     "Name": "Patch My PC Home Updater",
     "Category": "Utility",
     "Url": "https://patchmypc.com/freeupdater/PatchMyPC.exe",
     "Description": "Software Updater",
-    "Size": "2 MB",
+    "Size": "2.5 MB",
     "Version": "4.5.0.7"
   },
   {
@@ -1022,7 +565,7 @@ V
     "Url": "https://download.drivereasy.com/DriverEasy_Setup.exe",
     "Description": "Driver Updater",
     "Size": "6 MB",
-    "Version": "6.1.0.32140"
+    "Version": "6.1.1"
   },
   {
     "Name": "DriverPack Solution Online",
@@ -1035,10 +578,10 @@ V
   {
     "Name": "Intel Driver & Support Assistant",
     "Category": "Utility",
-    "Url": "https://downloadmirror.intel.com/28425/Intel-Driver-and-Support-Assistant-Installer.exe",
+    "Url": "https://downloadmirror.intel.com/Intel-Driver-and-Support-Assistant-Installer.exe",
     "Description": "Intel Drivers Updater",
     "Size": "5 MB",
-    "Version": "24.5.1"
+    "Version": "24.4.31.8"
   },
   {
     "Name": "AMD Auto-Detect and Install",
@@ -1046,31 +589,31 @@ V
     "Url": "https://drivers.amd.com/drivers/installer/auto-detect-and-install-driver.exe",
     "Description": "AMD Drivers Updater",
     "Size": "3 MB",
-    "Version": "2025.10 build"
+    "Version": "24.10.1"
   },
   {
     "Name": "NVIDIA Driver Installer",
     "Category": "Utility",
-    "Url": "https://us.download.nvidia.com/Windows/560.91.07/560.91.07-desktop-win10-win11-64bit-international-dch-whql.exe",
+    "Url": "https://us.download.nvidia.com/Windows/560.94/560.94-desktop-win10-win11-64bit-international-dch-whql.exe",
     "Description": "NVIDIA GPU Drivers",
-    "Size": "890 MB",
-    "Version": "560.91.07"
+    "Size": "695 MB",
+    "Version": "560.94"
   },
   {
     "Name": "Oracle VirtualBox",
     "Category": "Development",
-    "Url": "https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-163980-Win.exe",
+    "Url": "https://download.virtualbox.org/virtualbox/7.1.0/VirtualBox-7.1.0-164728-Win.exe",
     "Description": "Virtual Machine Platform",
     "Size": "107 MB",
-    "Version": "7.1.2"
+    "Version": "7.1.0"
   },
   {
     "Name": "VMware Workstation Player",
     "Category": "Development",
-    "Url": "https://download3.vmware.com/software/WKST-PLAYER-1753/VMware-player-full-17.5.3-23298084.exe",
+    "Url": "https://download3.vmware.com/software/WKST-PLAYER-1752/VMware-player-full-17.5.2-23775571.exe",
     "Description": "Virtualization Platform",
     "Size": "254 MB",
-    "Version": "17.5.3"
+    "Version": "17.5.2"
   },
   {
     "Name": "QEMU for Windows",
@@ -1078,7 +621,7 @@ V
     "Url": "https://qemu.weilnetz.de/w64/2024/qemu-w64-setup-20240430.exe",
     "Description": "Virtual Machine Emulator",
     "Size": "123 MB",
-    "Version": "8.2.2"
+    "Version": "9.1.0"
   },
   {
     "Name": "BlueStacks 10",
@@ -1086,7 +629,7 @@ V
     "Url": "https://cdn3.bluestacks.com/downloads/windows/nxt/10.40.101.1002/BlueStacksInstaller_10.40.101.1002_native.exe",
     "Description": "Android Emulator",
     "Size": "3.8 MB (installer)",
-    "Version": "10.40.101.1002"
+    "Version": "10.40.101"
   },
   {
     "Name": "LDPlayer 9",
@@ -1094,15 +637,15 @@ V
     "Url": "https://encdn.ldmnq.com/download/en/LDPlayer9_ens_9950.exe",
     "Description": "Android Emulator",
     "Size": "760 MB",
-    "Version": "9.9.50"
+    "Version": "9.0.72"
   },
   {
     "Name": "Android Studio",
     "Category": "Development",
-    "Url": "https://redirector.gvt1.com/edgedl/android/studio/install/2024.2.1.11/android-studio-2024.2.1.11-windows.exe",
+    "Url": "https://redirector.gvt1.com/edgedl/android/studio/install/2024.1.1.12/android-studio-2024.1.1.12-windows.exe",
     "Description": "Mobile App Development",
     "Size": "1.1 GB",
-    "Version": "2024.2.1.11"
+    "Version": "2024.1.1"
   },
   {
     "Name": "Genymotion",
@@ -1118,7 +661,7 @@ V
     "Url": "https://aka.ms/wslstore",
     "Description": "Linux Environment",
     "Size": "Microsoft Store Link",
-    "Version": "2.2.6"
+    "Version": "2.3.24"
   },
   {
     "Name": "Minikube",
@@ -1131,10 +674,10 @@ V
   {
     "Name": "Google ChromeDriver",
     "Category": "Web Tools",
-    "Url": "https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win64/chromedriver-win64.zip",
+    "Url": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.119/win64/chromedriver-win64.zip",
     "Description": "Browser Automation Driver",
     "Size": "12 MB",
-    "Version": "129.0.6668.100"
+    "Version": "128.0.6613.119"
   },
   {
     "Name": "Mozilla GeckoDriver",
@@ -1155,26 +698,26 @@ V
   {
     "Name": "HTTP Toolkit",
     "Category": "Web Tools",
-    "Url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.16.0/HttpToolkit-installer-1.16.0.exe",
+    "Url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.18.0/HttpToolkit-installer-1.18.0.exe",
     "Description": "HTTP Debugging Proxy",
     "Size": "120 MB",
-    "Version": "1.16.0"
+    "Version": "1.18.0"
   },
   {
     "Name": "Burp Suite Community",
     "Category": "Web Tools",
-    "Url": "https://portswigger-cdn.net/burp/releases/download?product=community&version=2025.1.1&type=WindowsX64",
+    "Url": "https://portswigger.net/burp/releases",
     "Description": "Web Security Testing",
     "Size": "350 MB",
-    "Version": "2025.1.1"
+    "Version": "2024.8.1"
   },
   {
     "Name": "Fiddler Everywhere",
     "Category": "Web Tools",
-    "Url": "https://downloads.getfiddler.com/fiddler-everywhere/Fiddler%20Everywhere%202.18.2.exe",
+    "Url": "https://downloads.getfiddler.com/fiddler-everywhere/Fiddler%20Everywhere%205.11.0.exe",
     "Description": "Network Debugging Proxy",
     "Size": "94 MB",
-    "Version": "2.18.2"
+    "Version": "5.11.0"
   },
   {
     "Name": "ngrok",
@@ -1182,23 +725,23 @@ V
     "Url": "https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip",
     "Description": "Secure Tunnel / Webhook Tester",
     "Size": "9 MB",
-    "Version": "3.0.0"
+    "Version": "3.15.0"
   },
   {
     "Name": "Insomnia",
     "Category": "Web Tools",
-    "Url": "https://github.com/Kong/insomnia/releases/download/core@9.3.2/Insomnia.Core-9.3.2.exe",
+    "Url": "https://github.com/Kong/insomnia/releases/download/core%4010.0.0/Insomnia.Core-10.0.0.exe",
     "Description": "API Design & Testing",
     "Size": "110 MB",
-    "Version": "9.3.2"
+    "Version": "10.0.0"
   },
   {
     "Name": "Selenium Server",
     "Category": "Web Tools",
-    "Url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.25.0/selenium-server-4.25.0.exe",
+    "Url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.24.0/selenium-server-4.24.0.jar",
     "Description": "Browser Automation Server",
     "Size": "33 MB",
-    "Version": "4.25.0"
+    "Version": "4.24.0"
   },
   {
     "Name": "Charles Proxy",
@@ -1211,26 +754,26 @@ V
   {
     "Name": "LibreOffice",
     "Category": "Office",
-    "Url": "https://download.documentfoundation.org/libreoffice/stable/24.2.4/win/x86_64/LibreOffice_24.2.4_Win_x86-64.msi",
+    "Url": "https://download.documentfoundation.org/libreoffice/stable/24.8.1/win/x86_64/LibreOffice_24.8.1_Win_x86-64.msi",
     "Description": "Office Suite",
-    "Size": "321 MB",
-    "Version": "24.2.4"
+    "Size": "340 MB",
+    "Version": "24.8.1"
   },
   {
     "Name": "WPS Office",
     "Category": "Office",
-    "Url": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/11.2.0.11715/WPSOffice_11.2.0.11715.exe",
+    "Url": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/12.1.0/WPSOffice_12.1.0.exe",
     "Description": "Office Suite",
-    "Size": "200 MB",
-    "Version": "11.2.0.11715"
+    "Size": "210 MB",
+    "Version": "12.1.0"
   },
   {
     "Name": "Foxit PDF Reader",
     "Category": "Office",
-    "Url": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.1/FoxitPDFReader20251_L10N_Setup_Prom.exe",
+    "Url": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2024.3/FoxitPDFReader20243_L10N_Setup_Prom.exe",
     "Description": "PDF Reader",
     "Size": "166 MB",
-    "Version": "2025.1"
+    "Version": "2024.3"
   },
   {
     "Name": "SumatraPDF",
@@ -1243,18 +786,18 @@ V
   {
     "Name": "Notion",
     "Category": "Office",
-    "Url": "https://desktop-release.notion-static.com/Notion%20Setup%202.3.1.exe",
+    "Url": "https://desktop-release.notion-static.com/Notion%20Setup.exe",
     "Description": "Workspace / Notes",
-    "Size": "123 MB",
-    "Version": "2.3.1"
+    "Size": "125 MB",
+    "Version": "3.12.0"
   },
   {
     "Name": "Evernote",
     "Category": "Office",
-    "Url": "https://cdn1.evernote.com/boron/win/builds/Evernote-10.91.3-win-ddl-ga-6062-setup.exe",
+    "Url": "https://cdn1.evernote.com/boron/win/builds/Evernote-10.105.4-win-ddl-ga-Setup.exe",
     "Description": "Notes & Tasks",
     "Size": "254 MB",
-    "Version": "10.91.3"
+    "Version": "10.105.4"
   },
   {
     "Name": "Typora",
@@ -1262,7 +805,7 @@ V
     "Url": "https://download.typora.io/windows/typora-setup-x64.exe",
     "Description": "Markdown Editor",
     "Size": "70 MB",
-    "Version": "1.9.5"
+    "Version": "1.9.3"
   },
   {
     "Name": "OnlyOffice Desktop Editors",
@@ -1270,15 +813,15 @@ V
     "Url": "https://download.onlyoffice.com/install/desktop/editors/windows/onlyoffice-desktopeditors_x64.exe",
     "Description": "Office Suite",
     "Size": "574 MB",
-    "Version": "8.0.1"
+    "Version": "8.1.1"
   },
   {
     "Name": "PDF-XChange Editor",
     "Category": "Office",
-    "Url": "https://downloads.pdf-xchange.com/EditorV9.x64.msi",
+    "Url": "https://downloads.pdf-xchange.com/EditorV10.x64.msi",
     "Description": "PDF Editor",
-    "Size": "130 MB",
-    "Version": "9.6.362"
+    "Size": "135 MB",
+    "Version": "10.4.0"
   },
   {
     "Name": "Obsidian",
@@ -1294,15 +837,15 @@ V
     "Url": "https://telegram.org/dl/desktop/win_portable",
     "Description": "Portable Messaging App",
     "Size": "92 MB",
-    "Version": "5.9.1"
+    "Version": "5.5.5"
   },
   {
     "Name": "Signal Portable (Unofficial Build)",
     "Category": "Communication",
-    "Url": "https://github.com/portapps/signal-portable/releases/download/7.26.0-2/signal-portable-win64-7.26.0-2.7z",
+    "Url": "https://github.com/portapps/signal-portable/releases/download/7.24.0-1/signal-portable-win64-7.24.0-1.7z",
     "Description": "Secure Messaging",
     "Size": "130 MB",
-    "Version": "7.26.0-2"
+    "Version": "7.24.0-1"
   },
   {
     "Name": "Zoom Portable (PortableApps)",
@@ -1310,15 +853,15 @@ V
     "Url": "https://portableapps.com/downloading/?a=ZoomPortable&s=s&d=pa&n=Zoom%20Portable",
     "Description": "Portable Video Conferencing",
     "Size": "95 MB",
-    "Version": "6.2.3"
+    "Version": "6.1.11"
   },
   {
     "Name": "Slack Portable (Portapps Build)",
     "Category": "Communication",
-    "Url": "https://github.com/portapps/slack-portable/releases/download/4.41.95-2/slack-portable-win64-4.41.95-2.7z",
+    "Url": "https://github.com/portapps/slack-portable/releases/download/4.40.133-1/slack-portable-win64-4.40.133-1.7z",
     "Description": "Team Chat",
     "Size": "135 MB",
-    "Version": "4.41.95-2"
+    "Version": "4.40.133-1"
   },
   {
     "Name": "Microsoft Teams Classic",
@@ -1339,10 +882,10 @@ V
   {
     "Name": "Mumble",
     "Category": "Communication",
-    "Url": "https://github.com/mumble-voip/mumble/releases/download/v1.6.1/mumble-1.6.1.x64.msi",
+    "Url": "https://github.com/mumble-voip/mumble/releases/download/v1.5.634/mumble-1.5.634.x64.msi",
     "Description": "Low-Latency Voice Chat",
     "Size": "35 MB",
-    "Version": "1.6.1"
+    "Version": "1.5.634"
   },
   {
     "Name": "Element Nightly",
@@ -1350,7 +893,7 @@ V
     "Url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%20Nightly.exe",
     "Description": "Matrix Client (Nightly)",
     "Size": "115 MB",
-    "Version": "1.11.72-nightly"
+    "Version": "1.11.75-nightly"
   },
   {
     "Name": "Skype Portable (PortableApps)",
@@ -1358,7 +901,7 @@ V
     "Url": "https://portableapps.com/downloading/?a=SkypePortable&s=s&d=pa&n=Skype%20Portable",
     "Description": "Portable Video Chat",
     "Size": "95 MB",
-    "Version": "8.123.0.204"
+    "Version": "8.125.0.201"
   },
   {
     "Name": "Wire Desktop",
@@ -1371,18 +914,18 @@ V
   {
     "Name": "RustDesk",
     "Category": "Remote",
-    "Url": "https://github.com/rustdesk/rustdesk/releases/download/1.2.2/rustdesk-1.2.2-windows-x86_64.exe",
+    "Url": "https://github.com/rustdesk/rustdesk/releases/download/1.3.0/rustdesk-1.3.0-x86_64.exe",
     "Description": "Open-source Remote Desktop",
-    "Size": "14 MB",
-    "Version": "1.2.2"
+    "Size": "18 MB",
+    "Version": "1.3.0"
   },
   {
     "Name": "TeamViewer Portable",
     "Category": "Remote",
     "Url": "https://download.teamviewer.com/download/TeamViewerPortable.zip",
     "Description": "Portable Remote Access",
-    "Size": "24 MB",
-    "Version": "15.60.3"
+    "Size": "25 MB",
+    "Version": "15.57.3"
   },
   {
     "Name": "Termius",
@@ -1390,55 +933,55 @@ V
     "Url": "https://www.termius.com/download/Termius-Installer-64bit.exe",
     "Description": "SSH Client / Terminal",
     "Size": "80 MB",
-    "Version": "6.7.8"
+    "Version": "8.12.0"
   },
   {
     "Name": "WinSCP Portable",
     "Category": "Network",
-    "Url": "https://winscp.net/download/winscp586.zip",
+    "Url": "https://winscp.net/download/WinSCP-6.3.5-Portable.zip",
     "Description": "Portable FTP/SFTP Client",
     "Size": "11 MB",
-    "Version": "6.3.4"
+    "Version": "6.3.5"
   },
   {
     "Name": "MobaXterm",
     "Category": "Network",
-    "Url": "https://download.mobatek.net/2228/MobaXterm_Portable_v24.7.zip",
+    "Url": "https://mobaxterm.mobatek.net/download-home-edition.html",
     "Description": "Advanced Terminal / X Server",
     "Size": "35 MB",
-    "Version": "24.7"
+    "Version": "24.2"
   },
   {
     "Name": "OpenSSH for Windows (Installer)",
     "Category": "Network",
-    "Url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.6.0.0p1-Beta/OpenSSH-Win64.zip",
+    "Url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.8.0.0p1-Beta/OpenSSH-Win64.zip",
     "Description": "SSH Server/Client",
     "Size": "6 MB",
-    "Version": "9.6.0.0p1"
+    "Version": "9.8.0.0p1"
   },
   {
     "Name": "TightVNC",
     "Category": "Remote",
-    "Url": "https://www.tightvnc.com/download/2.8.59/tightvnc-2.8.59-gpl-setup-64bit.msi",
+    "Url": "https://www.tightvnc.com/download/2.8.81/tightvnc-2.8.81-gpl-setup-64bit.msi",
     "Description": "VNC Remote Desktop",
     "Size": "7 MB",
-    "Version": "2.8.59"
+    "Version": "2.8.81"
   },
   {
     "Name": "RealVNC Viewer & Server",
     "Category": "Remote",
-    "Url": "https://www.realvnc.com/download/file/vnc.files/VNC-Server-64-bit.exe",
+    "Url": "https://www.realvnc.com/download/file/vnc.files/VNC-Server-7.12.1-Windows.exe",
     "Description": "Commercial VNC",
     "Size": "32 MB",
-    "Version": "6.11.2"
+    "Version": "7.12.1"
   },
   {
     "Name": "Anki",
     "Category": "Education",
-    "Url": "https://github.com/ankitects/anki/releases/download/24.10.1/anki-24.10.1-windows-qt6.exe",
+    "Url": "https://github.com/ankitects/anki/releases/download/24.06.3/anki-24.06.3-windows-qt6.exe",
     "Description": "Flashcard Learning Tool",
     "Size": "158 MB",
-    "Version": "24.10.1"
+    "Version": "24.06.3"
   },
   {
     "Name": "GeoGebra Classic 6",
@@ -1446,7 +989,7 @@ V
     "Url": "https://download.geogebra.org/package/win",
     "Description": "Mathematics Visualization",
     "Size": "92 MB",
-    "Version": "6.0.848.0"
+    "Version": "6.0.852.0"
   },
   {
     "Name": "Wolfram Mathematica (Trial)",
@@ -1475,18 +1018,18 @@ V
   {
     "Name": "RStudio Desktop",
     "Category": "Education",
-    "Url": "https://download1.rstudio.org/electron/windows/RStudio-2024.09.1-375.exe",
+    "Url": "https://download1.rstudio.org/electron/windows/RStudio-2024.04.2-764.exe",
     "Description": "Data Science IDE",
     "Size": "156 MB",
-    "Version": "2024.09.1-375"
+    "Version": "2024.04.2-764"
   },
   {
     "Name": "Spyder IDE",
     "Category": "Education",
-    "Url": "https://github.com/spyder-ide/spyder/releases/download/v6.0.2/Spyder_6.0.2_Installer.exe",
+    "Url": "https://github.com/spyder-ide/spyder/releases/download/v5.5.6/Spyder_64bit_full.exe",
     "Description": "Scientific Python IDE",
     "Size": "192 MB",
-    "Version": "6.0.2"
+    "Version": "5.5.6"
   },
   {
     "Name": "Visual Paradigm Community Edition",
@@ -1499,10 +1042,10 @@ V
   {
     "Name": "Arduino IDE",
     "Category": "Education",
-    "Url": "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.exe",
+    "Url": "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.3_Windows_64bit.exe",
     "Description": "Embedded Programming IDE",
     "Size": "184 MB",
-    "Version": "2.3.2"
+    "Version": "2.3.3"
   },
   {
     "Name": "Scratch Desktop",
@@ -1523,10 +1066,10 @@ V
   {
     "Name": "CrystalDiskMark",
     "Category": "System",
-    "Url": "https://osdn.net/frs/redir.php?m=gigenet&f=crystaldiskmark%2F92695%2FCrystalDiskMark9_5_4.exe",
+    "Url": "https://osdn.net/frs/redir.php?m=gigenet&f=crystaldiskmark%2F92695%2FCrystalDiskMark8_0_5.exe",
     "Description": "Storage Benchmark",
     "Size": "5 MB",
-    "Version": "9.5.4"
+    "Version": "8.0.5"
   },
   {
     "Name": "Cinebench 2024",
@@ -1534,7 +1077,7 @@ V
     "Url": "https://www.maxon.net/en/downloads/cinebench",
     "Description": "CPU/GPU Benchmark",
     "Size": "297 MB",
-    "Version": "2024.1"
+    "Version": "2024.1.0"
   },
   {
     "Name": "UserBenchmark",
@@ -1555,18 +1098,18 @@ V
   {
     "Name": "OCCT",
     "Category": "System",
-    "Url": "https://www.ocbase.com/download/OCCT-12.1.19.zip",
+    "Url": "https://www.ocbase.com/download/OCCT-13.0.1.zip",
     "Description": "Stability & Stress Tester",
     "Size": "135 MB",
-    "Version": "12.1.19"
+    "Version": "13.0.1"
   },
   {
     "Name": "AIDA64 Extreme",
     "Category": "System",
-    "Url": "https://download.aida64.com/aida64extreme700.exe",
+    "Url": "https://download.aida64.com/aida64extreme735.exe",
     "Description": "System Diagnostics",
     "Size": "52 MB",
-    "Version": "7.00"
+    "Version": "7.35"
   },
   {
     "Name": "FL Studio (Trial)",
@@ -1579,10 +1122,10 @@ V
   {
     "Name": "Reaper",
     "Category": "Media",
-    "Url": "https://www.reaper.fm/files/7.x/reaper707_x64-install.exe",
+    "Url": "https://www.reaper.fm/files/7.x/reaper722_x64-install.exe",
     "Description": "Audio Workstation",
     "Size": "17 MB",
-    "Version": "7.07"
+    "Version": "7.22"
   },
   {
     "Name": "CapCut",
@@ -1614,7 +1157,7 @@ V
     "Url": "https://creativecloud.adobe.com/apps/download/premiere-pro",
     "Description": "Professional Video Editor",
     "Size": "Adobe Installer",
-    "Version": "24.7"
+    "Version": "24.6"
   },
   {
     "Name": "Mullvad Browser",
@@ -1622,7 +1165,7 @@ V
     "Url": "https://mullvad.net/en/download/browser/windows-x86_64/latest",
     "Description": "Privacy Web Browser",
     "Size": "127 MB",
-    "Version": "14.0.1"
+    "Version": "13.5.3"
   },
   {
     "Name": "KeePassXC",
@@ -1638,7 +1181,7 @@ V
     "Url": "https://vault.bitwarden.com/download/?app=desktop&platform=windows",
     "Description": "Password Manager",
     "Size": "140 MB",
-    "Version": "2025.1.0"
+    "Version": "2024.9.0"
   },
   {
     "Name": "NordPass",
@@ -1662,7 +1205,7 @@ V
     "Url": "https://mullvad.net/download/app/exe/latest",
     "Description": "Privacy VPN",
     "Size": "79 MB",
-    "Version": "2025.10 build"
+    "Version": "2024.5"
   },
   {
     "Name": "Simple DNSCrypt",
@@ -1702,7 +1245,7 @@ V
     "Url": "https://downloads.beeper.com/windows",
     "Description": "Unified Chat (WhatsApp, iMessage, Discord, etc.)",
     "Size": "128 MB",
-    "Version": "2025.10 build"
+    "Version": "4.0.0"
   },
   {
     "Name": "Session",
@@ -1734,7 +1277,7 @@ V
     "Url": "https://updates.tdesktop.com/tsetup/tsetup-nightly-x64.exe",
     "Description": "Telegram Dev Build",
     "Size": "90 MB",
-    "Version": "Nightly Build 2025.10"
+    "Version": "Nightly Build"
   },
   {
     "Name": "Mattermost Desktop",
@@ -1755,10 +1298,10 @@ V
   {
     "Name": "Sublime Text",
     "Category": "Development",
-    "Url": "https://download.sublimetext.com/Sublime%20Text%20Build%204168%20x64%20Setup.exe",
+    "Url": "https://download.sublimetext.com/sublime_text_build_4180_x64_setup.exe",
     "Description": "Code Editor",
     "Size": "20 MB",
-    "Version": "4168"
+    "Version": "4180"
   },
   {
     "Name": "Atom (Community Build)",
@@ -1779,18 +1322,18 @@ V
   {
     "Name": "JetBrains Toolbox",
     "Category": "Development",
-    "Url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.3.3.31119.exe",
+    "Url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.2.32922.exe",
     "Description": "IDE Manager",
     "Size": "117 MB",
-    "Version": "2.3.3.31119"
+    "Version": "2.4.2.32922"
   },
   {
     "Name": "Notepad3",
     "Category": "Development",
-    "Url": "https://github.com/rizonesoft/Notepad3/releases/download/5.23.1205.4/Notepad3_5.23.1205.4_Setup.exe",
+    "Url": "https://github.com/rizonesoft/Notepad3/releases/download/v5.23.1205.1/Notepad3_5.23.1205.1_Setup.exe",
     "Description": "Lightweight Code Editor",
     "Size": "3 MB",
-    "Version": "5.23.1205.4"
+    "Version": "5.23.1205.1"
   },
   {
     "Name": "GitKraken",
@@ -1798,39 +1341,39 @@ V
     "Url": "https://release.axocdn.com/win64/GitKrakenSetup.exe",
     "Description": "Git GUI Client",
     "Size": "109 MB",
-    "Version": "10.5.1"
+    "Version": "10.2.0"
   },
   {
     "Name": "Cmder",
     "Category": "Development",
-    "Url": "https://github.com/cmderdev/cmder/releases/download/v1.3.26/cmder.zip",
+    "Url": "https://github.com/cmderdev/cmder/releases/download/v1.3.24/cmder.zip",
     "Description": "Console Emulator",
     "Size": "18 MB",
-    "Version": "1.3.26"
+    "Version": "1.3.24"
   },
   {
     "Name": "Windows Terminal",
     "Category": "Development",
-    "Url": "https://github.com/microsoft/terminal/releases/download/v1.21.2891.0/Microsoft.WindowsTerminal_1.21.2891.0_8wekyb3d8bbwe.msixbundle",
+    "Url": "https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle",
     "Description": "Modern Terminal",
     "Size": "110 MB",
-    "Version": "1.21.2891.0"
+    "Version": "1.20.11781.0"
   },
   {
     "Name": "MongoDB Compass",
     "Category": "Development",
-    "Url": "https://downloads.mongodb.com/compass/mongodb-compass-1.44.3-win32-x64.exe",
+    "Url": "https://downloads.mongodb.com/compass/mongodb-compass-1.43.5-win32-x64.exe",
     "Description": "Database GUI",
     "Size": "157 MB",
-    "Version": "1.44.3"
+    "Version": "1.43.5"
   },
   {
     "Name": "Docker CLI",
     "Category": "Development",
-    "Url": "https://github.com/docker/cli/releases/download/v27.2.1/docker-cli-27.2.1-windows-x86_64.zip",
+    "Url": "https://github.com/docker/cli/releases/download/v27.2.0/docker-cli-27.2.0-windows-x86_64.zip",
     "Description": "Command Line Tool for Docker",
     "Size": "42 MB",
-    "Version": "27.2.1"
+    "Version": "27.2.0"
   },
   {
     "Name": "ThrottleStop",
@@ -1846,7 +1389,7 @@ V
     "Url": "https://bitsum.com/files/processlassosetup64.exe",
     "Description": "CPU Optimization & Automation",
     "Size": "5 MB",
-    "Version": "14.1.0.4"
+    "Version": "14.1.0"
   },
   {
     "Name": "ParkControl",
@@ -1854,7 +1397,7 @@ V
     "Url": "https://bitsum.com/files/parkcontrolsetup64.exe",
     "Description": "Core Parking & Power Plan Manager",
     "Size": "2 MB",
-    "Version": "4.1.0.40"
+    "Version": "4.1.0"
   },
   {
     "Name": "MSI Center",
@@ -1870,7 +1413,7 @@ V
     "Url": "https://download.amd.com/Desktop/AMD-Ryzen-Master.exe",
     "Description": "CPU Tuning & Overclocking",
     "Size": "134 MB",
-    "Version": "2.13.3.2909"
+    "Version": "2.13.0.2909"
   },
   {
     "Name": "Intel Extreme Tuning Utility (XTU)",
@@ -1878,15 +1421,15 @@ V
     "Url": "https://downloadmirror.intel.com/30304/eng/XTUSetup.exe",
     "Description": "CPU Overclocking & Monitoring",
     "Size": "32 MB",
-    "Version": "7.15.0.30"
+    "Version": "7.14.1.12"
   },
   {
     "Name": "PowerToys",
     "Category": "System",
-    "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysUserSetup-0.87.1-x64.exe",
+    "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.85.0/PowerToysUserSetup-0.85.0-x64.exe",
     "Description": "Windows Productivity Enhancer",
     "Size": "182 MB",
-    "Version": "0.87.1"
+    "Version": "0.85.0"
   },
   {
     "Name": "QuickCPU",
@@ -1910,7 +1453,7 @@ V
     "Url": "https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe",
     "Description": "System Monitor & Cooling Control",
     "Size": "112 MB",
-    "Version": "5.0.0"
+    "Version": "4.60.2"
   },
   {
     "Name": "Recuva",
@@ -1934,7 +1477,7 @@ V
     "Url": "https://down.easeus.com/product/drw_free",
     "Description": "Data Recovery",
     "Size": "48 MB",
-    "Version": "17.0"
+    "Version": "18.0"
   },
   {
     "Name": "MiniTool Power Data Recovery",
@@ -1942,7 +1485,7 @@ V
     "Url": "https://www.minitool.com/download-center/power-data-recovery.html",
     "Description": "File Recovery",
     "Size": "60 MB",
-    "Version": "12.0"
+    "Version": "12.1"
   },
   {
     "Name": "Disk Drill for Windows",
@@ -1950,7 +1493,7 @@ V
     "Url": "https://www.cleverfiles.com/downloads/DiskDrillSetup.exe",
     "Description": "File Recovery Utility",
     "Size": "23 MB",
-    "Version": "5.5.820"
+    "Version": "5.5.890"
   },
   {
     "Name": "AOMEI Partition Assistant",
@@ -1958,7 +1501,7 @@ V
     "Url": "https://www2.aomeisoftware.com/download/pa/PAssist_Std.exe",
     "Description": "Partition Manager",
     "Size": "52 MB",
-    "Version": "10.5.0"
+    "Version": "10.4.1"
   },
   {
     "Name": "MiniTool Partition Wizard",
@@ -1969,12 +1512,12 @@ V
     "Version": "12.8"
   },
   {
-    "Name":This "EaseUS Partition Master Free",
+    "Name": "EaseUS Partition Master Free",
     "Category": "Utility",
     "Url": "https://down.easeus.com/product/epm_free",
     "Description": "Partition Manager",
     "Size": "45 MB",
-    "Version": "18.5"
+    "Version": "18.8"
   },
   {
     "Name": "DiskGenius",
@@ -2011,10 +1554,10 @@ V
   {
     "Name": "4K Video Downloader",
     "Category": "Media",
-    "Url": "https://dl.4kdownload.com/app/4kvideodownloader_4.34.3_x64_online.exe",
+    "Url": "https://dl.4kdownload.com/app/4kvideodownloader_4.31.0_x64_online.exe",
     "Description": "Video Downloader (YouTube etc.)",
     "Size": "1.2 MB (installer)",
-    "Version": "4.34.3"
+    "Version": "4.31.0"
   },
   {
     "Name": "ClipGrab",
@@ -2043,18 +1586,18 @@ V
   {
     "Name": "Audials One (Trial)",
     "Category": "Media",
-    "Url": "https://cdn.audials.com/audialsone/AudialsOne-2025.exe",
+    "Url": "https://cdn.audials.com/audialsone/AudialsOne-2024.exe",
     "Description": "Audio & Video Downloader",
     "Size": "166 MB",
-    "Version": "2025.0"
+    "Version": "2024.0"
   },
   {
     "Name": "Shutter Encoder",
     "Category": "Media",
-    "Url": "https://www.shutterencoder.com/Shutter%20Encoder%2018.8%20Windows%2064bits.exe",
+    "Url": "https://www.shutterencoder.com/Shutter%20Encoder%2018.5%20Windows%2064bits.exe",
     "Description": "Pro Video Transcoder",
     "Size": "134 MB",
-    "Version": "18.8"
+    "Version": "18.5"
   },
   {
     "Name": "FFmpeg (Build)",
@@ -2086,7 +1629,7 @@ V
     "Url": "https://portableapps.com/downloading/?a=WiresharkPortable&s=s&d=pa&n=Wireshark%20Portable",
     "Description": "Network Packet Analyzer",
     "Size": "125 MB",
-    "Version": "4.4.2"
+    "Version": "4.2.6"
   },
   {
     "Name": "Angry IP Scanner",
@@ -2158,20 +1701,20 @@ V
     "Url": "https://down.easeus.com/product/tb_free",
     "Description": "System Backup & Restore",
     "Size": "44 MB",
-    "Version": "2025.10 build"
+    "Version": "2024"
   },
   {
     "Name": "Clonezilla Live",
     "Category": "Backup",
-    "Url": "https://clonezilla.org/downloads/stable/clonezilla-live-3.1.4-19-amd64.iso",
+    "Url": "https://clonezilla.org/downloads/stable/clonezilla-live-3.1.3-16-amd64.iso",
     "Description": "Partition & Disk Cloner (ISO)",
     "Size": "350 MB",
-    "Version": "3.1.4-19"
+    "Version": "3.1.3-16"
   },
   {
     "Name": "Paragon Backup & Recovery CE",
     "Category": "Backup",
-    "Url": "httpsks://dl.paragon-software.com/free/BR_17.9.3_x64.exe",
+    "Url": "https://dl.paragon-software.com/free/BR_17.9.3_x64.exe",
     "Description": "Backup Utility",
     "Size": "142 MB",
     "Version": "17.9.3"
@@ -2179,10 +1722,10 @@ V
   {
     "Name": "Redo Rescue",
     "Category": "Backup",
-    "Url": "https://github.com/redorescue/redorescue/releases/download/5.0.8/redo-rescue-5.0.8.iso",
+    "Url": "https://github.com/redorescue/redorescue/releases/download/2.0.7/redo-rescue-2.0.7.iso",
     "Description": "System Recovery ISO",
     "Size": "720 MB",
-    "Version": "5.0.8"
+    "Version": "2.0.7"
   },
   {
     "Name": "Veeam Agent for Windows Free",
@@ -2203,7 +1746,7 @@ V
   {
     "Name": "MiniTool ShadowMaker Free",
     "Category": "Backup",
-    "Url": "httpsks://www.minitool.com/download-center/shadowmaker.html",
+    "Url": "https://www.minitool.com/download-center/shadowmaker.html",
     "Description": "Backup & Restore Utility",
     "Size": "77 MB",
     "Version": "4.5"
