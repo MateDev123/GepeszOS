@@ -5,7 +5,8 @@
     "Url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
     "Description": "Web Browser",
     "Size": "1.5 MB (installer)",
-    "Version": "138.0.7204.100"
+    "Version": "138.0.7204.100",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg"
   },
   {
     "Name": "Mozilla Firefox",
@@ -13,7 +14,8 @@
     "Url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
     "Description": "Web Browser",
     "Size": "62 MB",
-    "Version": "140.0.2"
+    "Version": "140.0.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firefox.svg"
   },
   {
     "Name": "Brave Browser",
@@ -21,7 +23,8 @@
     "Url": "https://laptop-updates.brave.com/latest/winx64",
     "Description": "Web Browser",
     "Size": "1.6 MB (installer)",
-    "Version": "1.78.112"
+    "Version": "1.78.112",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/brave.svg"
   },
   {
     "Name": "Opera Browser",
@@ -29,7 +32,8 @@
     "Url": "https://download.opera.com/download?platform=windows&arch=x64",
     "Description": "Web Browser",
     "Size": "2.8 MB (installer)",
-    "Version": "122.0.5622.111"
+    "Version": "122.0.5622.111",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/opera.svg"
   },
   {
     "Name": "Microsoft Edge",
@@ -37,7 +41,8 @@
     "Url": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=en",
     "Description": "Web Browser",
     "Size": "2.0 MB (installer)",
-    "Version": "138.0.3351.109"
+    "Version": "138.0.3351.109",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftedge.svg"
   },
   {
     "Name": "Tor Browser",
@@ -45,7 +50,8 @@
     "Url": "https://www.torproject.org/dist/torbrowser/14.5.2/torbrowser-install-win64-14.5.2_ALL.exe",
     "Description": "Anonymous Browser",
     "Size": "135 MB",
-    "Version": "14.5.2"
+    "Version": "14.5.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/torbrowser.svg"
   },
   {
     "Name": "Mullvad Browser",
@@ -53,7 +59,8 @@
     "Url": "https://mullvad.net/en/browser/windows/download",
     "Description": "Privacy Web Browser",
     "Size": "140 MB",
-    "Version": "14.5.2"
+    "Version": "14.5.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mullvadvpn.svg"
   },
   {
     "Name": "BitTorrent",
@@ -61,7 +68,8 @@
     "Url": "https://download-new.utorrent.com/endpoint/bittorrent/os/windows/track/stable/",
     "Description": "Torrent Client",
     "Size": "2.5 MB (installer)",
-    "Version": "7.11.0"
+    "Version": "7.11.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bittorrent.svg"
   },
   {
     "Name": "Malwarebytes",
@@ -69,7 +77,8 @@
     "Url": "https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/MBSetup.exe",
     "Description": "Anti-Malware",
     "Size": "2.5 MB (installer)",
-    "Version": "5.1.11"
+    "Version": "5.1.11",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/malwarebytes.svg"
   },
   {
     "Name": "Avast Free Antivirus",
@@ -77,7 +86,8 @@
     "Url": "https://files.avast.com/iavs9x/avast_free_antivirus_setup_online.exe",
     "Description": "Antivirus",
     "Size": "2.6 MB (installer)",
-    "Version": "24.8.9388"
+    "Version": "24.8.9388",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/avast.svg"
   },
   {
     "Name": "AVG AntiVirus Free",
@@ -85,7 +95,8 @@
     "Url": "https://files-download.avg.com/inst/mp/Antivirus_Free_Installer.exe",
     "Description": "Antivirus",
     "Size": "2.5 MB (installer)",
-    "Version": "24.8.9388"
+    "Version": "24.8.9388",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/avg.svg"
   },
   {
     "Name": "Bitdefender Antivirus Free",
@@ -93,7 +104,8 @@
     "Url": "https://download.bitdefender.com/windows/bp/agent/en-us/bitdefender_online.exe",
     "Description": "Antivirus",
     "Size": "14 MB",
-    "Version": "27.0.35.140"
+    "Version": "27.0.35.140",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bitdefender.svg"
   },
   {
     "Name": "Kaspersky Standard",
@@ -101,7 +113,8 @@
     "Url": "https://www.kaspersky.com/downloads/standard",
     "Description": "Antivirus",
     "Size": "3 MB (installer)",
-    "Version": "21.16.6.467"
+    "Version": "21.16.6.467",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kaspersky.svg"
   },
   {
     "Name": "GlassWire",
@@ -109,7 +122,8 @@
     "Url": "https://download.glasswire.com/GlassWireSetup.exe",
     "Description": "Network Monitor / Firewall",
     "Size": "72 MB",
-    "Version": "3.3.680"
+    "Version": "3.3.680",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/glasswire.svg"
   },
   {
     "Name": "ZoneAlarm Free Firewall",
@@ -117,7 +131,8 @@
     "Url": "https://download.zonealarm.com/bin/free/ZoneAlarm_FreeFirewall_en.exe",
     "Description": "Firewall",
     "Size": "6 MB",
-    "Version": "15.8.211.19229"
+    "Version": "15.8.211.19229",
+    "IconUrl": "https://api.iconify.design/mdi:shield-check.svg"
   },
   {
     "Name": "Total Commander",
@@ -125,7 +140,8 @@
     "Url": "https://totalcommander.ch/win/tcmd1103x64.exe",
     "Description": "File Manager",
     "Size": "9.5 MB",
-    "Version": "11.03"
+    "Version": "11.03",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/totalcommander.svg"
   },
   {
     "Name": "FreeCommander XE",
@@ -133,7 +149,8 @@
     "Url": "https://freecommander.com/downloads/FreeCommanderXE-64-public_setup.zip",
     "Description": "File Manager",
     "Size": "15 MB",
-    "Version": "2024 Build 901"
+    "Version": "2024 Build 901",
+    "IconUrl": "https://api.iconify.design/fluent:folder-24-filled.svg"
   },
   {
     "Name": "WinSCP",
@@ -141,7 +158,8 @@
     "Url": "https://winscp.net/download/WinSCP-6.3.5-Setup.exe",
     "Description": "FTP/SFTP Client",
     "Size": "11 MB",
-    "Version": "6.3.5"
+    "Version": "6.3.5",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/winscp.svg"
   },
   {
     "Name": "Everything",
@@ -149,7 +167,8 @@
     "Url": "https://www.voidtools.com/Everything-1.4.1.1026.x64-Setup.exe",
     "Description": "File Search Engine",
     "Size": "1.7 MB",
-    "Version": "1.4.1.1026"
+    "Version": "1.4.1.1026",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/everything.svg"
   },
   {
     "Name": "SyncThing",
@@ -157,7 +176,8 @@
     "Url": "https://github.com/syncthing/syncthing/releases/download/v1.28.0/syncthing-windows-amd64-v1.28.0.zip",
     "Description": "File Synchronization",
     "Size": "14 MB",
-    "Version": "1.28.0"
+    "Version": "1.28.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/syncthing.svg"
   },
   {
     "Name": "FreeFileSync",
@@ -165,7 +185,8 @@
     "Url": "https://freefilesync.org/download/FreeFileSync_13.7_Windows_Setup.exe",
     "Description": "Folder Sync & Backup",
     "Size": "22 MB",
-    "Version": "13.7"
+    "Version": "13.7",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/freefilesync.svg"
   },
   {
     "Name": "TeraCopy",
@@ -173,7 +194,8 @@
     "Url": "https://www.codesector.com/files/teracopy.exe",
     "Description": "File Transfer Utility",
     "Size": "11 MB",
-    "Version": "3.17"
+    "Version": "3.17",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/teracopy.svg"
   },
   {
     "Name": "7-Zip",
@@ -181,7 +203,8 @@
     "Url": "https://www.7-zip.org/a/7z2408-x64.exe",
     "Description": "File Archiver",
     "Size": "1.6 MB",
-    "Version": "24.08"
+    "Version": "24.08",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/7zip.svg"
   },
   {
     "Name": "PeaZip",
@@ -189,7 +212,8 @@
     "Url": "https://github.com/peazip/PeaZip/releases/download/10.1.0/peazip-10.1.0.WIN64.exe",
     "Description": "File Archiver",
     "Size": "11 MB",
-    "Version": "10.1.0"
+    "Version": "10.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/peazip.svg"
   },
   {
     "Name": "UltraSearch",
@@ -197,7 +221,8 @@
     "Url": "https://downloads.jam-software.de/ultrasearch/UltraSearch-4.2.2-x64-Setup.exe",
     "Description": "File Index & Search",
     "Size": "10 MB",
-    "Version": "4.2.2"
+    "Version": "4.2.2",
+    "IconUrl": "https://api.iconify.design/fluent:search-24-filled.svg"
   },
   {
     "Name": "MPC-HC",
@@ -205,7 +230,8 @@
     "Url": "https://github.com/clsid2/mpc-hc/releases/download/2.3.6/MPC-HC.2.3.6.x64.exe",
     "Description": "Video Player",
     "Size": "21 MB",
-    "Version": "2.3.6"
+    "Version": "2.3.6",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mpc-hc.svg"
   },
   {
     "Name": "PotPlayer",
@@ -213,7 +239,8 @@
     "Url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe",
     "Description": "Video Player",
     "Size": "35 MB",
-    "Version": "1.7.22344"
+    "Version": "1.7.22344",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/potplayer.svg"
   },
   {
     "Name": "KMPlayer",
@@ -221,7 +248,8 @@
     "Url": "https://cdn.kmplayer.com/KMP/Installers/KMPlayer64-2024.9.25.13.exe",
     "Description": "Video Player",
     "Size": "48 MB",
-    "Version": "2024.9.25.13"
+    "Version": "2024.9.25.13",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kmplayer.svg"
   },
   {
     "Name": "AIMP",
@@ -229,7 +257,8 @@
     "Url": "https://aimp.ru/files/windows/builds/aimp_5.30.2563_w32.exe",
     "Description": "Music Player",
     "Size": "15 MB",
-    "Version": "5.30.2563"
+    "Version": "5.30.2563",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/aimp.svg"
   },
   {
     "Name": "iTunes",
@@ -237,7 +266,8 @@
     "Url": "https://www.apple.com/itunes/download/win64",
     "Description": "Music Manager",
     "Size": "200 MB",
-    "Version": "12.13.3.2"
+    "Version": "12.13.3.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/apple.svg"
   },
   {
     "Name": "VLC Media Player",
@@ -245,7 +275,8 @@
     "Url": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
     "Description": "Video Player",
     "Size": "41 MB",
-    "Version": "3.0.21"
+    "Version": "3.0.21",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vlcmediaplayer.svg"
   },
   {
     "Name": "Kodi",
@@ -253,7 +284,8 @@
     "Url": "https://mirrors.kodi.tv/releases/windows/win64/kodi-21.1-Omega-x64.exe",
     "Description": "Home Theater Player",
     "Size": "75 MB",
-    "Version": "21.1 Omega"
+    "Version": "21.1 Omega",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kodi.svg"
   },
   {
     "Name": "foobar2000",
@@ -261,7 +293,8 @@
     "Url": "https://www.foobar2000.org/files/foobar2000-x64_v2.1.6.exe",
     "Description": "Audio Player",
     "Size": "6 MB",
-    "Version": "2.1.6"
+    "Version": "2.1.6",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/foobar2000.svg"
   },
   {
     "Name": "MediaMonkey",
@@ -269,7 +302,8 @@
     "Url": "https://www.mediamonkey.com/sw/MediaMonkey_Setup_5.1.0.2837.exe",
     "Description": "Music Manager",
     "Size": "96 MB",
-    "Version": "5.1.0.2837"
+    "Version": "5.1.0.2837",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mediamonkey.svg"
   },
   {
     "Name": "Epic Games Launcher",
@@ -277,7 +311,8 @@
     "Url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
     "Description": "Game Launcher",
     "Size": "168 MB",
-    "Version": "16.10.0"
+    "Version": "16.10.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/epicgames.svg"
   },
   {
     "Name": "EA App",
@@ -285,7 +320,8 @@
     "Url": "https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe",
     "Description": "Game Client",
     "Size": "117 MB",
-    "Version": "13.300.0"
+    "Version": "13.300.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ea.svg"
   },
   {
     "Name": "Battle.net",
@@ -293,7 +329,8 @@
     "Url": "https://us.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe",
     "Description": "Game Launcher",
     "Size": "5 MB (installer)",
-    "Version": "2.33.0"
+    "Version": "2.33.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/battlenet.svg"
   },
   {
     "Name": "Ubisoft Connect",
@@ -301,7 +338,8 @@
     "Url": "https://ubi.li/4vxt9",
     "Description": "Game Launcher",
     "Size": "210 MB",
-    "Version": "150.0"
+    "Version": "150.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ubisoft.svg"
   },
   {
     "Name": "Xbox App",
@@ -309,7 +347,8 @@
     "Url": "https://aka.ms/xboxappdownload",
     "Description": "Game Library / Cloud",
     "Size": "3.5 MB (installer)",
-    "Version": "2409.1001.4.0"
+    "Version": "2409.1001.4.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xbox.svg"
   },
   {
     "Name": "MSI Afterburner",
@@ -317,7 +356,8 @@
     "Url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip",
     "Description": "GPU Tuning Utility",
     "Size": "52 MB",
-    "Version": "4.6.5"
+    "Version": "4.6.5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/msi.svg"
   },
   {
     "Name": "Razer Synapse",
@@ -325,7 +365,8 @@
     "Url": "https://rzr.to/synapse-3-pc-download",
     "Description": "Peripheral Configuration",
     "Size": "5 MB (installer)",
-    "Version": "3.9.1030.120417"
+    "Version": "3.9.1030.120417",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/razer.svg"
   },
   {
     "Name": "NVIDIA GeForce Experience",
@@ -333,7 +374,8 @@
     "Url": "https://us.download.nvidia.com/GFE/GFEClient/3.28.0.417/GeForce_Experience_v3.28.0.417.exe",
     "Description": "GPU Optimization",
     "Size": "126 MB",
-    "Version": "3.28.0.417"
+    "Version": "3.28.0.417",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nvidia.svg"
   },
   {
     "Name": "Logitech G HUB",
@@ -341,7 +383,8 @@
     "Url": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe",
     "Description": "Peripheral Configuration",
     "Size": "40 MB",
-    "Version": "2024.7"
+    "Version": "2024.7",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/logitechg.svg"
   },
   {
     "Name": "Google Drive for Desktop",
@@ -349,7 +392,8 @@
     "Url": "https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe",
     "Description": "Cloud Storage",
     "Size": "313 MB",
-    "Version": "98.0.0.0"
+    "Version": "98.0.0.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googledrive.svg"
   },
   {
     "Name": "Dropbox",
@@ -357,7 +401,8 @@
     "Url": "https://www.dropbox.com/download?plat=win",
     "Description": "Cloud Storage",
     "Size": "2.4 MB (installer)",
-    "Version": "208.4.5824"
+    "Version": "208.4.5824",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/dropbox.svg"
   },
   {
     "Name": "Microsoft OneDrive",
@@ -365,7 +410,8 @@
     "Url": "https://go.microsoft.com/fwlink/p/?linkid=844652",
     "Description": "Cloud Storage",
     "Size": "62 MB",
-    "Version": "24.181.0908.0001"
+    "Version": "24.181.0908.0001",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftonedrive.svg"
   },
   {
     "Name": "MegaSync",
@@ -373,7 +419,8 @@
     "Url": "https://mega.nz/MEGAsyncSetup64.exe",
     "Description": "Cloud Storage",
     "Size": "95 MB",
-    "Version": "5.4.0"
+    "Version": "5.4.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mega.svg"
   },
   {
     "Name": "pCloud Drive",
@@ -381,7 +428,8 @@
     "Url": "https://www.pcloud.com/download-free-online-cloud-storage.html",
     "Description": "Cloud Storage",
     "Size": "31 MB",
-    "Version": "4.2.3"
+    "Version": "4.2.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pcloud.svg"
   },
   {
     "Name": "Sync.com",
@@ -389,7 +437,8 @@
     "Url": "https://d.sync.com/download/windows/Sync-Installer.exe",
     "Description": "Cloud Backup",
     "Size": "28 MB",
-    "Version": "3.1.4"
+    "Version": "3.1.4",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sync.svg"
   },
   {
     "Name": "Icedrive",
@@ -397,7 +446,8 @@
     "Url": "https://downloads.icedrive.net/windows/IcedriveSetup.exe",
     "Description": "Cloud Storage",
     "Size": "37 MB",
-    "Version": "3.3.2"
+    "Version": "3.3.2",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/icedrive.svg"
   },
   {
     "Name": "Tresorit",
@@ -405,7 +455,8 @@
     "Url": "https://installerstorage.blob.core.windows.net/public/install/Tresorit.exe",
     "Description": "Encrypted Cloud Storage",
     "Size": "66 MB",
-    "Version": "3.5.2605.4160"
+    "Version": "3.5.2605.4160",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tresorit.svg"
   },
   {
     "Name": "Backblaze",
@@ -413,7 +464,8 @@
     "Url": "https://www.backblaze.com/win32/install_backblaze.exe",
     "Description": "Cloud Backup",
     "Size": "14 MB",
-    "Version": "9.0.0"
+    "Version": "9.0.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/backblaze.svg"
   },
   {
     "Name": "Resilio Sync",
@@ -421,7 +473,8 @@
     "Url": "https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe",
     "Description": "P2P File Sync",
     "Size": "23 MB",
-    "Version": "2.8.0.1379"
+    "Version": "2.8.0.1379",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/resiliosync.svg"
   },
   {
     "Name": "Adobe Lightroom Classic",
@@ -429,7 +482,8 @@
     "Url": "https://creativecloud.adobe.com/apps/download/lightroom-classic",
     "Description": "Photo Editor",
     "Size": "2 MB (installer)",
-    "Version": "13.5"
+    "Version": "13.5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobelightroom.svg"
   },
   {
     "Name": "Darktable",
@@ -437,7 +491,8 @@
     "Url": "https://github.com/darktable-org/darktable/releases/download/release-4.8.1/darktable-4.8.1-win64.exe",
     "Description": "RAW Photo Editor",
     "Size": "110 MB",
-    "Version": "4.8.1"
+    "Version": "4.8.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/darktable.svg"
   },
   {
     "Name": "Photopea (Web)",
@@ -445,7 +500,8 @@
     "Url": "https://www.photopea.com/",
     "Description": "Online Image Editor",
     "Size": "Web App",
-    "Version": "N/A"
+    "Version": "N/A",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/photopea.svg"
   },
   {
     "Name": "FastStone Image Viewer",
@@ -453,7 +509,8 @@
     "Url": "https://www.faststone.org/FSViewerSetup.exe",
     "Description": "Image Viewer & Editor",
     "Size": "7 MB",
-    "Version": "7.9"
+    "Version": "7.9",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/faststone.svg"
   },
   {
     "Name": "IrfanView",
@@ -461,7 +518,8 @@
     "Url": "https://www.irfanview.com/64bit.htm",
     "Description": "Image Viewer",
     "Size": "5 MB",
-    "Version": "4.70"
+    "Version": "4.70",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/irfanview.svg"
   },
   {
     "Name": "XnView MP",
@@ -469,7 +527,8 @@
     "Url": "https://download.xnview.com/XnViewMP-win-x64.exe",
     "Description": "Image Viewer & Organizer",
     "Size": "56 MB",
-    "Version": "1.8.0"
+    "Version": "1.8.0",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/xnview.svg"
   },
   {
     "Name": "Greenshot",
@@ -477,7 +536,8 @@
     "Url": "https://github.com/greenshot/greenshot/releases/download/v1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe",
     "Description": "Screenshot Tool",
     "Size": "3 MB",
-    "Version": "1.2.10.6"
+    "Version": "1.2.10.6",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/greenshot.svg"
   },
   {
     "Name": "ShareX",
@@ -485,7 +545,8 @@
     "Url": "https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-setup.exe",
     "Description": "Screen Capture / Recorder",
     "Size": "11 MB",
-    "Version": "16.1.0"
+    "Version": "16.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sharex.svg"
   },
   {
     "Name": "Snagit",
@@ -493,7 +554,8 @@
     "Url": "https://download.techsmith.com/snagit/releases/2401/snagit.exe",
     "Description": "Screen Capture & Editing",
     "Size": "312 MB",
-    "Version": "2024.2.1"
+    "Version": "2024.2.1",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/snagit.svg"
   },
   {
     "Name": "OBS Studio",
@@ -501,7 +563,8 @@
     "Url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.2-Full-Installer-x64.exe",
     "Description": "Screen Recording / Streaming",
     "Size": "132 MB",
-    "Version": "30.2.2"
+    "Version": "30.2.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/obsstudio.svg"
   },
   {
     "Name": "Microsoft PowerToys",
@@ -509,7 +572,8 @@
     "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.85.0/PowerToysUserSetup-0.85.0-x64.exe",
     "Description": "Windows Enhancement Tools",
     "Size": "182 MB",
-    "Version": "0.85.0"
+    "Version": "0.85.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/windows.svg"
   },
   {
     "Name": "Rainmeter",
@@ -517,7 +581,8 @@
     "Url": "https://github.com/rainmeter/rainmeter/releases/download/v4.5.19.3776/Rainmeter-4.5.19.exe",
     "Description": "Desktop Customization",
     "Size": "2.5 MB",
-    "Version": "4.5.19"
+    "Version": "4.5.19",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rainmeter.svg"
   },
   {
     "Name": "AutoHotkey",
@@ -525,7 +590,8 @@
     "Url": "https://www.autohotkey.com/download/ahk-v2.exe",
     "Description": "Automation Scripting",
     "Size": "5 MB",
-    "Version": "2.0.18"
+    "Version": "2.0.18",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/autohotkey.svg"
   },
   {
     "Name": "WinDirStat",
@@ -533,7 +599,8 @@
     "Url": "https://windirstat.net/download/windirstat1_1_2_setup.exe",
     "Description": "Disk Usage Analyzer",
     "Size": "0.7 MB",
-    "Version": "1.1.2"
+    "Version": "1.1.2",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/windirstat.svg"
   },
   {
     "Name": "TreeSize Free",
@@ -541,7 +608,8 @@
     "Url": "https://downloads.jam-software.de/treesize_free/TreeSizeFree-4.7.2-Setup.exe",
     "Description": "Disk Space Analyzer",
     "Size": "11 MB",
-    "Version": "4.7.2"
+    "Version": "4.7.2",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/treesize.svg"
   },
   {
     "Name": "Everything Toolbar",
@@ -549,7 +617,8 @@
     "Url": "https://github.com/stnkl/EverythingToolbar/releases/download/1.3.0/EverythingToolbar-1.3.0.exe",
     "Description": "File Search Integration",
     "Size": "5 MB",
-    "Version": "1.3.0"
+    "Version": "1.3.0",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/everything.svg"
   },
   {
     "Name": "PowerISO",
@@ -557,7 +626,8 @@
     "Url": "https://www.poweriso.com/PowerISO8-x64.exe",
     "Description": "ISO Manager",
     "Size": "5.5 MB",
-    "Version": "8.8"
+    "Version": "8.8",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/poweriso.svg"
   },
   {
     "Name": "Daemon Tools Lite",
@@ -565,7 +635,8 @@
     "Url": "https://mirror.daemon-tools.cc/downloads/DTLiteInstaller.exe",
     "Description": "Virtual Drive Manager",
     "Size": "1.1 MB (installer)",
-    "Version": "11.2.0"
+    "Version": "11.2.0",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/daemontools.svg"
   },
   {
     "Name": "CPU Control",
@@ -573,7 +644,8 @@
     "Url": "https://www.koma-code.de/download.htm?download=CPU-Control.zip",
     "Description": "CPU Core Manager",
     "Size": "0.6 MB",
-    "Version": "2.1"
+    "Version": "2.1",
+    "IconUrl": "https://api.iconify.design/fluent:cpu-24-filled.svg"
   },
   {
     "Name": "Process Explorer",
@@ -581,7 +653,8 @@
     "Url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
     "Description": "Advanced Task Manager",
     "Size": "3 MB",
-    "Version": "17.06"
+    "Version": "17.06",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sysinternals.svg"
   },
   {
     "Name": "IObit Driver Booster",
@@ -589,7 +662,8 @@
     "Url": "https://cdn.iobit.com/dl/driver_booster_setup.exe",
     "Description": "Driver Updater",
     "Size": "30 MB",
-    "Version": "11.6.0"
+    "Version": "11.6.0",
+    "IconUrl": "https://api.iconify.design/mdi:driver.svg"
   },
   {
     "Name": "Snappy Driver Installer Origin",
@@ -597,7 +671,8 @@
     "Url": "https://www.snappy-driver-installer.org/download/",
     "Description": "Offline Driver Updater",
     "Size": "26 MB (core app)",
-    "Version": "1.12.10"
+    "Version": "1.12.10",
+    "IconUrl": "https://api.iconify.design/mdi:steering.svg"
   },
   {
     "Name": "Display Driver Uninstaller",
@@ -605,7 +680,8 @@
     "Url": "https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.8.1.exe",
     "Description": "Driver Cleaner",
     "Size": "1.5 MB",
-    "Version": "18.0.8.1"
+    "Version": "18.0.8.1",
+    "IconUrl": "https://api.iconify.design/mdi:monitor-clean.svg"
   },
   {
     "Name": "Patch My PC Home Updater",
@@ -613,7 +689,8 @@
     "Url": "https://patchmypc.com/freeupdater/PatchMyPC.exe",
     "Description": "Software Updater",
     "Size": "2.5 MB",
-    "Version": "4.5.0.7"
+    "Version": "4.5.0.7",
+    "IconUrl": "https://api.iconify.design/mdi:update.svg"
   },
   {
     "Name": "Driver Easy",
@@ -621,7 +698,8 @@
     "Url": "https://download.drivereasy.com/DriverEasy_Setup.exe",
     "Description": "Driver Updater",
     "Size": "6 MB",
-    "Version": "6.1.1"
+    "Version": "6.1.1",
+    "IconUrl": "https://api.iconify.design/mdi:transit-connection-variant.svg"
   },
   {
     "Name": "DriverPack Solution Online",
@@ -629,7 +707,8 @@
     "Url": "https://drp.su/files/DriverPack-Online.exe",
     "Description": "Driver Updater",
     "Size": "11 MB",
-    "Version": "17.11.113"
+    "Version": "17.11.113",
+    "IconUrl": "https://api.iconify.design/mdi:package-down.svg"
   },
   {
     "Name": "Intel Driver & Support Assistant",
@@ -637,7 +716,8 @@
     "Url": "https://downloadmirror.intel.com/Intel-Driver-and-Support-Assistant-Installer.exe",
     "Description": "Intel Drivers Updater",
     "Size": "5 MB",
-    "Version": "24.4.31.8"
+    "Version": "24.4.31.8",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/intel.svg"
   },
   {
     "Name": "AMD Auto-Detect and Install",
@@ -645,7 +725,8 @@
     "Url": "https://drivers.amd.com/drivers/installer/auto-detect-and-install-driver.exe",
     "Description": "AMD Drivers Updater",
     "Size": "3 MB",
-    "Version": "24.10.1"
+    "Version": "24.10.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amd.svg"
   },
   {
     "Name": "NVIDIA Driver Installer",
@@ -653,7 +734,8 @@
     "Url": "https://us.download.nvidia.com/Windows/560.94/560.94-desktop-win10-win11-64bit-international-dch-whql.exe",
     "Description": "NVIDIA GPU Drivers",
     "Size": "695 MB",
-    "Version": "560.94"
+    "Version": "560.94",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nvidia.svg"
   },
   {
     "Name": "Oracle VirtualBox",
@@ -661,7 +743,8 @@
     "Url": "https://download.virtualbox.org/virtualbox/7.1.0/VirtualBox-7.1.0-164728-Win.exe",
     "Description": "Virtual Machine Platform",
     "Size": "107 MB",
-    "Version": "7.1.0"
+    "Version": "7.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/virtualbox.svg"
   },
   {
     "Name": "VMware Workstation Player",
@@ -669,7 +752,8 @@
     "Url": "https://download3.vmware.com/software/WKST-PLAYER-1752/VMware-player-full-17.5.2-23775571.exe",
     "Description": "Virtualization Platform",
     "Size": "254 MB",
-    "Version": "17.5.2"
+    "Version": "17.5.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vmware.svg"
   },
   {
     "Name": "QEMU for Windows",
@@ -677,7 +761,8 @@
     "Url": "https://qemu.weilnetz.de/w64/2024/qemu-w64-setup-20240430.exe",
     "Description": "Virtual Machine Emulator",
     "Size": "123 MB",
-    "Version": "9.1.0"
+    "Version": "9.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/qemu.svg"
   },
   {
     "Name": "BlueStacks 10",
@@ -685,7 +770,8 @@
     "Url": "https://cdn3.bluestacks.com/downloads/windows/nxt/10.40.101.1002/BlueStacksInstaller_10.40.101.1002_native.exe",
     "Description": "Android Emulator",
     "Size": "3.8 MB (installer)",
-    "Version": "10.40.101"
+    "Version": "10.40.101",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bluestacks.svg"
   },
   {
     "Name": "LDPlayer 9",
@@ -693,7 +779,8 @@
     "Url": "https://encdn.ldmnq.com/download/en/LDPlayer9_ens_9950.exe",
     "Description": "Android Emulator",
     "Size": "760 MB",
-    "Version": "9.0.72"
+    "Version": "9.0.72",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/ldplayer.svg"
   },
   {
     "Name": "Android Studio",
@@ -701,7 +788,8 @@
     "Url": "https://redirector.gvt1.com/edgedl/android/studio/install/2024.1.1.12/android-studio-2024.1.1.12-windows.exe",
     "Description": "Mobile App Development",
     "Size": "1.1 GB",
-    "Version": "2024.1.1"
+    "Version": "2024.1.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/androidstudio.svg"
   },
   {
     "Name": "Genymotion",
@@ -709,7 +797,8 @@
     "Url": "https://dl.genymotion.com/releases/genymotion-3.7.1/genymotion-3.7.1.exe",
     "Description": "Android Emulator",
     "Size": "47 MB",
-    "Version": "3.7.1"
+    "Version": "3.7.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/genymotion.svg"
   },
   {
     "Name": "Windows Subsystem for Linux (WSL)",
@@ -717,7 +806,8 @@
     "Url": "https://aka.ms/wslstore",
     "Description": "Linux Environment",
     "Size": "Microsoft Store Link",
-    "Version": "2.3.24"
+    "Version": "2.3.24",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg"
   },
   {
     "Name": "Minikube",
@@ -725,7 +815,8 @@
     "Url": "https://github.com/kubernetes/minikube/releases/download/v1.34.0/minikube-installer.exe",
     "Description": "Kubernetes Local Cluster",
     "Size": "78 MB",
-    "Version": "1.34.0"
+    "Version": "1.34.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/minikube.svg"
   },
   {
     "Name": "Google ChromeDriver",
@@ -733,7 +824,8 @@
     "Url": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.119/win64/chromedriver-win64.zip",
     "Description": "Browser Automation Driver",
     "Size": "12 MB",
-    "Version": "128.0.6613.119"
+    "Version": "128.0.6613.119",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg"
   },
   {
     "Name": "Mozilla GeckoDriver",
@@ -741,7 +833,8 @@
     "Url": "https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip",
     "Description": "Firefox Automation Driver",
     "Size": "3 MB",
-    "Version": "0.35.0"
+    "Version": "0.35.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firefox.svg"
   },
   {
     "Name": "Postman CLI",
@@ -749,7 +842,8 @@
     "Url": "https://dl-cli.pstmn.io/download/latest/win64",
     "Description": "API Testing CLI",
     "Size": "85 MB",
-    "Version": "1.15.0"
+    "Version": "1.15.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg"
   },
   {
     "Name": "HTTP Toolkit",
@@ -757,7 +851,8 @@
     "Url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.18.0/HttpToolkit-installer-1.18.0.exe",
     "Description": "HTTP Debugging Proxy",
     "Size": "120 MB",
-    "Version": "1.18.0"
+    "Version": "1.18.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/httptoolkit.svg"
   },
   {
     "Name": "Burp Suite Community",
@@ -765,7 +860,8 @@
     "Url": "https://portswigger.net/burp/releases",
     "Description": "Web Security Testing",
     "Size": "350 MB",
-    "Version": "2024.8.1"
+    "Version": "2024.8.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/burpsuite.svg"
   },
   {
     "Name": "Fiddler Everywhere",
@@ -773,7 +869,8 @@
     "Url": "https://downloads.getfiddler.com/fiddler-everywhere/Fiddler%20Everywhere%205.11.0.exe",
     "Description": "Network Debugging Proxy",
     "Size": "94 MB",
-    "Version": "5.11.0"
+    "Version": "5.11.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telerik.svg"
   },
   {
     "Name": "ngrok",
@@ -781,7 +878,8 @@
     "Url": "https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip",
     "Description": "Secure Tunnel / Webhook Tester",
     "Size": "9 MB",
-    "Version": "3.15.0"
+    "Version": "3.15.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ngrok.svg"
   },
   {
     "Name": "Insomnia",
@@ -789,7 +887,8 @@
     "Url": "https://github.com/Kong/insomnia/releases/download/core%4010.0.0/Insomnia.Core-10.0.0.exe",
     "Description": "API Design & Testing",
     "Size": "110 MB",
-    "Version": "10.0.0"
+    "Version": "10.0.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/insomnia.svg"
   },
   {
     "Name": "Selenium Server",
@@ -797,7 +896,8 @@
     "Url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.24.0/selenium-server-4.24.0.jar",
     "Description": "Browser Automation Server",
     "Size": "33 MB",
-    "Version": "4.24.0"
+    "Version": "4.24.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/selenium.svg"
   },
   {
     "Name": "Charles Proxy",
@@ -805,7 +905,8 @@
     "Url": "https://www.charlesproxy.com/assets/release/4.6.6/charles-proxy-4.6.6-win64.msi",
     "Description": "HTTP Proxy Debugger",
     "Size": "87 MB",
-    "Version": "4.6.6"
+    "Version": "4.6.6",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/charles.svg"
   },
   {
     "Name": "LibreOffice",
@@ -813,7 +914,8 @@
     "Url": "https://download.documentfoundation.org/libreoffice/stable/24.8.1/win/x86_64/LibreOffice_24.8.1_Win_x86-64.msi",
     "Description": "Office Suite",
     "Size": "340 MB",
-    "Version": "24.8.1"
+    "Version": "24.8.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/libreoffice.svg"
   },
   {
     "Name": "WPS Office",
@@ -821,7 +923,8 @@
     "Url": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/12.1.0/WPSOffice_12.1.0.exe",
     "Description": "Office Suite",
     "Size": "210 MB",
-    "Version": "12.1.0"
+    "Version": "12.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wpsoffice.svg"
   },
   {
     "Name": "Foxit PDF Reader",
@@ -829,7 +932,8 @@
     "Url": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2024.3/FoxitPDFReader20243_L10N_Setup_Prom.exe",
     "Description": "PDF Reader",
     "Size": "166 MB",
-    "Version": "2024.3"
+    "Version": "2024.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/foxit.svg"
   },
   {
     "Name": "SumatraPDF",
@@ -837,7 +941,8 @@
     "Url": "https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.5.2-64-install.exe",
     "Description": "Lightweight PDF Reader",
     "Size": "9 MB",
-    "Version": "3.5.2"
+    "Version": "3.5.2",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/sumatrapdf.svg"
   },
   {
     "Name": "Notion",
@@ -845,7 +950,8 @@
     "Url": "https://desktop-release.notion-static.com/Notion%20Setup.exe",
     "Description": "Workspace / Notes",
     "Size": "125 MB",
-    "Version": "3.12.0"
+    "Version": "3.12.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/notion.svg"
   },
   {
     "Name": "Evernote",
@@ -853,7 +959,8 @@
     "Url": "https://cdn1.evernote.com/boron/win/builds/Evernote-10.105.4-win-ddl-ga-Setup.exe",
     "Description": "Notes & Tasks",
     "Size": "254 MB",
-    "Version": "10.105.4"
+    "Version": "10.105.4",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/evernote.svg"
   },
   {
     "Name": "Typora",
@@ -861,7 +968,8 @@
     "Url": "https://download.typora.io/windows/typora-setup-x64.exe",
     "Description": "Markdown Editor",
     "Size": "70 MB",
-    "Version": "1.9.3"
+    "Version": "1.9.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typora.svg"
   },
   {
     "Name": "OnlyOffice Desktop Editors",
@@ -869,7 +977,8 @@
     "Url": "https://download.onlyoffice.com/install/desktop/editors/windows/onlyoffice-desktopeditors_x64.exe",
     "Description": "Office Suite",
     "Size": "574 MB",
-    "Version": "8.1.1"
+    "Version": "8.1.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/onlyoffice.svg"
   },
   {
     "Name": "PDF-XChange Editor",
@@ -877,7 +986,8 @@
     "Url": "https://downloads.pdf-xchange.com/EditorV10.x64.msi",
     "Description": "PDF Editor",
     "Size": "135 MB",
-    "Version": "10.4.0"
+    "Version": "10.4.0",
+    "IconUrl": "https://api.iconify.design/mdi:file-pdf-box.svg"
   },
   {
     "Name": "Obsidian",
@@ -885,7 +995,8 @@
     "Url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian.1.6.7.exe",
     "Description": "Knowledge Base / Notes",
     "Size": "85 MB",
-    "Version": "1.6.7"
+    "Version": "1.6.7",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/obsidian.svg"
   },
   {
     "Name": "Telegram Portable",
@@ -893,7 +1004,8 @@
     "Url": "https://telegram.org/dl/desktop/win_portable",
     "Description": "Portable Messaging App",
     "Size": "92 MB",
-    "Version": "5.5.5"
+    "Version": "5.5.5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg"
   },
   {
     "Name": "Signal Portable (Unofficial Build)",
@@ -901,7 +1013,8 @@
     "Url": "https://github.com/portapps/signal-portable/releases/download/7.24.0-1/signal-portable-win64-7.24.0-1.7z",
     "Description": "Secure Messaging",
     "Size": "130 MB",
-    "Version": "7.24.0-1"
+    "Version": "7.24.0-1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/signal.svg"
   },
   {
     "Name": "Zoom Portable (PortableApps)",
@@ -909,7 +1022,8 @@
     "Url": "https://portableapps.com/downloading/?a=ZoomPortable&s=s&d=pa&n=Zoom%20Portable",
     "Description": "Portable Video Conferencing",
     "Size": "95 MB",
-    "Version": "6.1.11"
+    "Version": "6.1.11",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/zoom.svg"
   },
   {
     "Name": "Slack Portable (Portapps Build)",
@@ -917,7 +1031,8 @@
     "Url": "https://github.com/portapps/slack-portable/releases/download/4.40.133-1/slack-portable-win64-4.40.133-1.7z",
     "Description": "Team Chat",
     "Size": "135 MB",
-    "Version": "4.40.133-1"
+    "Version": "4.40.133-1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/slack.svg"
   },
   {
     "Name": "Microsoft Teams Classic",
@@ -925,7 +1040,8 @@
     "Url": "https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.9759/Teams_windows_x64.exe",
     "Description": "Legacy Teams Client",
     "Size": "112 MB",
-    "Version": "1.7.00.9759"
+    "Version": "1.7.00.9759",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftteams.svg"
   },
   {
     "Name": "TeamSpeak 3 Client",
@@ -933,7 +1049,8 @@
     "Url": "https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe",
     "Description": "Voice Communication",
     "Size": "91 MB",
-    "Version": "3.6.2"
+    "Version": "3.6.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/teamspeak.svg"
   },
   {
     "Name": "Mumble",
@@ -941,7 +1058,8 @@
     "Url": "https://github.com/mumble-voip/mumble/releases/download/v1.5.634/mumble-1.5.634.x64.msi",
     "Description": "Low-Latency Voice Chat",
     "Size": "35 MB",
-    "Version": "1.5.634"
+    "Version": "1.5.634",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mumble.svg"
   },
   {
     "Name": "Element Nightly",
@@ -949,7 +1067,8 @@
     "Url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%20Nightly.exe",
     "Description": "Matrix Client (Nightly)",
     "Size": "115 MB",
-    "Version": "1.11.75-nightly"
+    "Version": "1.11.75-nightly",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/element.svg"
   },
   {
     "Name": "Skype Portable (PortableApps)",
@@ -957,7 +1076,8 @@
     "Url": "https://portableapps.com/downloading/?a=SkypePortable&s=s&d=pa&n=Skype%20Portable",
     "Description": "Portable Video Chat",
     "Size": "95 MB",
-    "Version": "8.125.0.201"
+    "Version": "8.125.0.201",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/skype.svg"
   },
   {
     "Name": "Wire Desktop",
@@ -965,7 +1085,8 @@
     "Url": "https://github.com/wireapp/wire-desktop/releases/download/windows%2F3.33.4425/Wire-Setup-3.33.4425.exe",
     "Description": "Secure Team Communication",
     "Size": "125 MB",
-    "Version": "3.33.4425"
+    "Version": "3.33.4425",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wire.svg"
   },
   {
     "Name": "RustDesk",
@@ -973,7 +1094,8 @@
     "Url": "https://github.com/rustdesk/rustdesk/releases/download/1.3.0/rustdesk-1.3.0-x86_64.exe",
     "Description": "Open-source Remote Desktop",
     "Size": "18 MB",
-    "Version": "1.3.0"
+    "Version": "1.3.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rustdesk.svg"
   },
   {
     "Name": "TeamViewer Portable",
@@ -981,7 +1103,8 @@
     "Url": "https://download.teamviewer.com/download/TeamViewerPortable.zip",
     "Description": "Portable Remote Access",
     "Size": "25 MB",
-    "Version": "15.57.3"
+    "Version": "15.57.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/teamviewer.svg"
   },
   {
     "Name": "Termius",
@@ -989,7 +1112,8 @@
     "Url": "https://www.termius.com/download/Termius-Installer-64bit.exe",
     "Description": "SSH Client / Terminal",
     "Size": "80 MB",
-    "Version": "8.12.0"
+    "Version": "8.12.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/termius.svg"
   },
   {
     "Name": "WinSCP Portable",
@@ -997,7 +1121,8 @@
     "Url": "https://winscp.net/download/WinSCP-6.3.5-Portable.zip",
     "Description": "Portable FTP/SFTP Client",
     "Size": "11 MB",
-    "Version": "6.3.5"
+    "Version": "6.3.5",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/winscp.svg"
   },
   {
     "Name": "MobaXterm",
@@ -1005,7 +1130,8 @@
     "Url": "https://mobaxterm.mobatek.net/download-home-edition.html",
     "Description": "Advanced Terminal / X Server",
     "Size": "35 MB",
-    "Version": "24.2"
+    "Version": "24.2",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mobaxterm.svg"
   },
   {
     "Name": "OpenSSH for Windows (Installer)",
@@ -1013,7 +1139,8 @@
     "Url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.8.0.0p1-Beta/OpenSSH-Win64.zip",
     "Description": "SSH Server/Client",
     "Size": "6 MB",
-    "Version": "9.8.0.0p1"
+    "Version": "9.8.0.0p1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openssh.svg"
   },
   {
     "Name": "TightVNC",
@@ -1021,7 +1148,8 @@
     "Url": "https://www.tightvnc.com/download/2.8.81/tightvnc-2.8.81-gpl-setup-64bit.msi",
     "Description": "VNC Remote Desktop",
     "Size": "7 MB",
-    "Version": "2.8.81"
+    "Version": "2.8.81",
+    "IconUrl": "https://api.iconify.design/mdi:remote-desktop.svg"
   },
   {
     "Name": "RealVNC Viewer & Server",
@@ -1029,7 +1157,8 @@
     "Url": "https://www.realvnc.com/download/file/vnc.files/VNC-Server-7.12.1-Windows.exe",
     "Description": "Commercial VNC",
     "Size": "32 MB",
-    "Version": "7.12.1"
+    "Version": "7.12.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/realvnc.svg"
   },
   {
     "Name": "Anki",
@@ -1037,7 +1166,8 @@
     "Url": "https://github.com/ankitects/anki/releases/download/24.06.3/anki-24.06.3-windows-qt6.exe",
     "Description": "Flashcard Learning Tool",
     "Size": "158 MB",
-    "Version": "24.06.3"
+    "Version": "24.06.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/anki.svg"
   },
   {
     "Name": "GeoGebra Classic 6",
@@ -1045,7 +1175,8 @@
     "Url": "https://download.geogebra.org/package/win",
     "Description": "Mathematics Visualization",
     "Size": "92 MB",
-    "Version": "6.0.852.0"
+    "Version": "6.0.852.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/geogebra.svg"
   },
   {
     "Name": "Wolfram Mathematica (Trial)",
@@ -1053,7 +1184,8 @@
     "Url": "https://account.wolfram.com/download/public/wolfram-mathematica/14.1/WolframMathematica_14.1_WIN.exe",
     "Description": "Symbolic Math & Programming",
     "Size": "1.9 GB",
-    "Version": "14.1"
+    "Version": "14.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wolframmathematica.svg"
   },
   {
     "Name": "Microsoft Math Solver",
@@ -1061,7 +1193,8 @@
     "Url": "https://apps.microsoft.com/detail/microsoft-math-solver/9wzdncrfhx4n",
     "Description": "Equation Solver",
     "Size": "Microsoft Store App",
-    "Version": "Latest"
+    "Version": "Latest",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoft.svg"
   },
   {
     "Name": "Jupyter Notebook",
@@ -1069,7 +1202,8 @@
     "Url": "https://github.com/jupyter/notebook/releases/download/v7.2.2/jupyter-notebook-7.2.2.exe",
     "Description": "Interactive Python Environment",
     "Size": "120 MB",
-    "Version": "7.2.2"
+    "Version": "7.2.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jupyter.svg"
   },
   {
     "Name": "RStudio Desktop",
@@ -1077,7 +1211,8 @@
     "Url": "https://download1.rstudio.org/electron/windows/RStudio-2024.04.2-764.exe",
     "Description": "Data Science IDE",
     "Size": "156 MB",
-    "Version": "2024.04.2-764"
+    "Version": "2024.04.2-764",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rstudio.svg"
   },
   {
     "Name": "Spyder IDE",
@@ -1085,7 +1220,8 @@
     "Url": "https://github.com/spyder-ide/spyder/releases/download/v5.5.6/Spyder_64bit_full.exe",
     "Description": "Scientific Python IDE",
     "Size": "192 MB",
-    "Version": "5.5.6"
+    "Version": "5.5.6",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spyder.svg"
   },
   {
     "Name": "Visual Paradigm Community Edition",
@@ -1093,7 +1229,8 @@
     "Url": "https://www.visual-paradigm.com/downloads/vpce/vpce64.exe",
     "Description": "UML & Diagram Designer",
     "Size": "330 MB",
-    "Version": "17.1"
+    "Version": "17.1",
+    "IconUrl": "https://api.iconify.design/mdi:diagram-3.svg"
   },
   {
     "Name": "Arduino IDE",
@@ -1101,7 +1238,8 @@
     "Url": "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.3_Windows_64bit.exe",
     "Description": "Embedded Programming IDE",
     "Size": "184 MB",
-    "Version": "2.3.3"
+    "Version": "2.3.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/arduino.svg"
   },
   {
     "Name": "Scratch Desktop",
@@ -1109,7 +1247,8 @@
     "Url": "https://downloads.scratch.mit.edu/desktop/Scratch-Desktop-3.29.1.exe",
     "Description": "Visual Programming for Kids",
     "Size": "124 MB",
-    "Version": "3.29.1"
+    "Version": "3.29.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/scratch.svg"
   },
   {
     "Name": "HWiNFO64",
@@ -1117,7 +1256,8 @@
     "Url": "https://www.hwinfo.com/files/hwi_800.exe",
     "Description": "System Monitoring Tool",
     "Size": "10 MB",
-    "Version": "8.00"
+    "Version": "8.00",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/hwinfo.svg"
   },
   {
     "Name": "CrystalDiskMark",
@@ -1125,7 +1265,8 @@
     "Url": "https://osdn.net/frs/redir.php?m=gigenet&f=crystaldiskmark%2F92695%2FCrystalDiskMark8_0_5.exe",
     "Description": "Storage Benchmark",
     "Size": "5 MB",
-    "Version": "8.0.5"
+    "Version": "8.0.5",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/crystaldiskmark.svg"
   },
   {
     "Name": "Cinebench 2024",
@@ -1133,7 +1274,8 @@
     "Url": "https://www.maxon.net/en/downloads/cinebench",
     "Description": "CPU/GPU Benchmark",
     "Size": "297 MB",
-    "Version": "2024.1.0"
+    "Version": "2024.1.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/maxon.svg"
   },
   {
     "Name": "UserBenchmark",
@@ -1141,7 +1283,8 @@
     "Url": "https://www.userbenchmark.com/resources/download/UserBenchMark.exe",
     "Description": "System Performance Benchmark",
     "Size": "14 MB",
-    "Version": "3.3.9.0"
+    "Version": "3.3.9.0",
+    "IconUrl": "https://api.iconify.design/mdi:speedometer.svg"
   },
   {
     "Name": "MSI Kombustor",
@@ -1149,7 +1292,8 @@
     "Url": "https://download.msi.com/uti_exe/combustor/MSI-Kombustor-4.1.22.0-Installer.exe",
     "Description": "GPU Stress Test",
     "Size": "98 MB",
-    "Version": "4.1.22.0"
+    "Version": "4.1.22.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/msi.svg"
   },
   {
     "Name": "OCCT",
@@ -1157,7 +1301,8 @@
     "Url": "https://www.ocbase.com/download/OCCT-13.0.1.zip",
     "Description": "Stability & Stress Tester",
     "Size": "135 MB",
-    "Version": "13.0.1"
+    "Version": "13.0.1",
+    "IconUrl": "https://api.iconify.design/mdi:lightning-bolt.svg"
   },
   {
     "Name": "AIDA64 Extreme",
@@ -1165,7 +1310,8 @@
     "Url": "https://download.aida64.com/aida64extreme735.exe",
     "Description": "System Diagnostics",
     "Size": "52 MB",
-    "Version": "7.35"
+    "Version": "7.35",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/aida64.svg"
   },
   {
     "Name": "FL Studio (Trial)",
@@ -1173,7 +1319,8 @@
     "Url": "https://install.image-line.com/flstudio/flstudio_win_21.2.3.4004.exe",
     "Description": "Digital Audio Workstation",
     "Size": "1.2 GB",
-    "Version": "21.2.3.4004"
+    "Version": "21.2.3.4004",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/flstudio.svg"
   },
   {
     "Name": "Reaper",
@@ -1181,7 +1328,8 @@
     "Url": "https://www.reaper.fm/files/7.x/reaper722_x64-install.exe",
     "Description": "Audio Workstation",
     "Size": "17 MB",
-    "Version": "7.22"
+    "Version": "7.22",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reaper.svg"
   },
   {
     "Name": "CapCut",
@@ -1189,7 +1337,8 @@
     "Url": "https://sf16-cdn-tos.douyinstatic.com/obj/eden-vaeh7u2mnj/CapCut_Desktop_Installer_3_0_1_1290.exe",
     "Description": "Video Editor",
     "Size": "510 MB",
-    "Version": "3.0.1.1290"
+    "Version": "3.0.1.1290",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/capcut.svg"
   },
   {
     "Name": "Olive Video Editor",
@@ -1197,7 +1346,8 @@
     "Url": "https://github.com/olive-editor/olive/releases/download/0.1.3/Olive-0.1.3-Windows-x86_64.exe",
     "Description": "Non-linear Video Editor",
     "Size": "64 MB",
-    "Version": "0.1.3"
+    "Version": "0.1.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/olive.svg"
   },
   {
     "Name": "WavePad Audio Editor",
@@ -1205,7 +1355,8 @@
     "Url": "https://www.nch.com.au/components/wpsetup.exe",
     "Description": "Audio Recording & Editing",
     "Size": "3 MB",
-    "Version": "19.21"
+    "Version": "19.21",
+    "IconUrl": "https://api.iconify.design/mdi:waveform.svg"
   },
   {
     "Name": "Adobe Premiere Pro (Trial)",
@@ -1213,7 +1364,8 @@
     "Url": "https://creativecloud.adobe.com/apps/download/premiere-pro",
     "Description": "Professional Video Editor",
     "Size": "Adobe Installer",
-    "Version": "24.6"
+    "Version": "24.6",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobepremierepro.svg"
   },
   {
     "Name": "Mullvad Browser",
@@ -1221,7 +1373,8 @@
     "Url": "https://mullvad.net/en/download/browser/windows-x86_64/latest",
     "Description": "Privacy Web Browser",
     "Size": "127 MB",
-    "Version": "13.5.3"
+    "Version": "13.5.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mullvadvpn.svg"
   },
   {
     "Name": "KeePassXC",
@@ -1229,7 +1382,8 @@
     "Url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-Win64.msi",
     "Description": "Password Manager",
     "Size": "46 MB",
-    "Version": "2.7.9"
+    "Version": "2.7.9",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/keepassxc.svg"
   },
   {
     "Name": "Bitwarden",
@@ -1237,7 +1391,8 @@
     "Url": "https://vault.bitwarden.com/download/?app=desktop&platform=windows",
     "Description": "Password Manager",
     "Size": "140 MB",
-    "Version": "2024.9.0"
+    "Version": "2024.9.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bitwarden.svg"
   },
   {
     "Name": "NordPass",
@@ -1245,7 +1400,8 @@
     "Url": "https://downloads.nordcdn.com/apps/windows/NordPass/latest/NordPassSetup.exe",
     "Description": "Password Manager",
     "Size": "52 MB",
-    "Version": "5.7.15"
+    "Version": "5.7.15",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nordpass.svg"
   },
   {
     "Name": "VeraCrypt",
@@ -1253,7 +1409,8 @@
     "Url": "https://launchpad.net/veracrypt/trunk/1.26.7/+download/VeraCrypt%20Setup%201.26.7.exe",
     "Description": "Disk Encryption",
     "Size": "36 MB",
-    "Version": "1.26.7"
+    "Version": "1.26.7",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/veracrypt.svg"
   },
   {
     "Name": "Mullvad VPN",
@@ -1261,7 +1418,8 @@
     "Url": "https://mullvad.net/download/app/exe/latest",
     "Description": "Privacy VPN",
     "Size": "79 MB",
-    "Version": "2024.5"
+    "Version": "2024.5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mullvadvpn.svg"
   },
   {
     "Name": "Simple DNSCrypt",
@@ -1269,7 +1427,8 @@
     "Url": "https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.8.64/SimpleDNSCrypt64.msi",
     "Description": "DNS Encryption Tool",
     "Size": "10 MB",
-    "Version": "0.8.64"
+    "Version": "0.8.64",
+    "IconUrl": "https://api.iconify.design/mdi:dns.svg"
   },
   {
     "Name": "Franz",
@@ -1277,7 +1436,8 @@
     "Url": "https://github.com/meetfranz/franz/releases/download/v5.10.0/Franz-Setup-5.10.0.exe",
     "Description": "All-in-One Messaging App",
     "Size": "186 MB",
-    "Version": "5.10.0"
+    "Version": "5.10.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/franz.svg"
   },
   {
     "Name": "Rambox",
@@ -1285,7 +1445,8 @@
     "Url": "https://github.com/ramboxapp/download/releases/download/v2.3.0/Rambox-2.3.0-win-x64.exe",
     "Description": "Unified Messenger & Email Client",
     "Size": "243 MB",
-    "Version": "2.3.0"
+    "Version": "2.3.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rambox.svg"
   },
   {
     "Name": "Ferdi (Community Build)",
@@ -1293,7 +1454,8 @@
     "Url": "https://github.com/getferdi/ferdi/releases/download/v5.8.1/Ferdi-Setup-5.8.1.exe",
     "Description": "Multi-Chat Client",
     "Size": "174 MB",
-    "Version": "5.8.1"
+    "Version": "5.8.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ferdi.svg"
   },
   {
     "Name": "Beeper",
@@ -1301,7 +1463,8 @@
     "Url": "https://downloads.beeper.com/windows",
     "Description": "Unified Chat (WhatsApp, iMessage, Discord, etc.)",
     "Size": "128 MB",
-    "Version": "4.0.0"
+    "Version": "4.0.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/beeper.svg"
   },
   {
     "Name": "Session",
@@ -1309,7 +1472,8 @@
     "Url": "https://github.com/oxen-io/session-desktop/releases/download/v1.14.0/session-desktop-win-1.14.0.exe",
     "Description": "Anonymous Messenger",
     "Size": "118 MB",
-    "Version": "1.14.0"
+    "Version": "1.14.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/session.svg"
   },
   {
     "Name": "Delta Chat",
@@ -1317,7 +1481,8 @@
     "Url": "https://download.delta.chat/desktop/v1.48.1/DeltaChat-Installer-1.48.1.exe",
     "Description": "Email-based Messenger",
     "Size": "92 MB",
-    "Version": "1.48.1"
+    "Version": "1.48.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/deltachat.svg"
   },
   {
     "Name": "Element Portable",
@@ -1325,7 +1490,8 @@
     "Url": "https://github.com/portapps/element-portable/releases/download/1.11.68-5/element-portable-win64-1.11.68-5.7z",
     "Description": "Matrix Chat Client (Portable)",
     "Size": "115 MB",
-    "Version": "1.11.68-5"
+    "Version": "1.11.68-5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/element.svg"
   },
   {
     "Name": "Telegram Nightly",
@@ -1333,7 +1499,8 @@
     "Url": "https://updates.tdesktop.com/tsetup/tsetup-nightly-x64.exe",
     "Description": "Telegram Dev Build",
     "Size": "90 MB",
-    "Version": "Nightly Build"
+    "Version": "Nightly Build",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg"
   },
   {
     "Name": "Mattermost Desktop",
@@ -1341,7 +1508,8 @@
     "Url": "https://releases.mattermost.com/desktop/5.9.1/mattermost-desktop-5.9.1-win-x64.exe",
     "Description": "Team Chat & Collaboration",
     "Size": "103 MB",
-    "Version": "5.9.1"
+    "Version": "5.9.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mattermost.svg"
   },
   {
     "Name": "Zulip Desktop",
@@ -1349,7 +1517,8 @@
     "Url": "https://github.com/zulip/zulip-desktop/releases/download/v5.10.3/Zulip-5.10.3-x64.exe",
     "Description": "Team Chat Platform",
     "Size": "102 MB",
-    "Version": "5.10.3"
+    "Version": "5.10.3",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/zulip.svg"
   },
   {
     "Name": "Sublime Text",
@@ -1357,7 +1526,8 @@
     "Url": "https://download.sublimetext.com/sublime_text_build_4180_x64_setup.exe",
     "Description": "Code Editor",
     "Size": "20 MB",
-    "Version": "4180"
+    "Version": "4180",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sublimetext.svg"
   },
   {
     "Name": "Atom (Community Build)",
@@ -1365,7 +1535,8 @@
     "Url": "https://github.com/atom-community/atom/releases/download/v1.63.1/AtomSetup-x64.exe",
     "Description": "Text & Code Editor",
     "Size": "182 MB",
-    "Version": "1.63.1"
+    "Version": "1.63.1",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/atom.svg"
   },
   {
     "Name": "Visual Studio Code Insiders",
@@ -1373,7 +1544,8 @@
     "Url": "https://update.code.visualstudio.com/latest/win32-x64-user/insider",
     "Description": "Code Editor (Beta)",
     "Size": "90 MB",
-    "Version": "1.93.0-insider"
+    "Version": "1.93.0-insider",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/visualstudiocode.svg"
   },
   {
     "Name": "JetBrains Toolbox",
@@ -1381,7 +1553,8 @@
     "Url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.2.32922.exe",
     "Description": "IDE Manager",
     "Size": "117 MB",
-    "Version": "2.4.2.32922"
+    "Version": "2.4.2.32922",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jetbrains.svg"
   },
   {
     "Name": "Notepad3",
@@ -1389,7 +1562,8 @@
     "Url": "https://github.com/rizonesoft/Notepad3/releases/download/v5.23.1205.1/Notepad3_5.23.1205.1_Setup.exe",
     "Description": "Lightweight Code Editor",
     "Size": "3 MB",
-    "Version": "5.23.1205.1"
+    "Version": "5.23.1205.1",
+    "IconUrl": "https://api.iconify.design/mdi:square-edit-outline.svg"
   },
   {
     "Name": "GitKraken",
@@ -1397,7 +1571,8 @@
     "Url": "https://release.axocdn.com/win64/GitKrakenSetup.exe",
     "Description": "Git GUI Client",
     "Size": "109 MB",
-    "Version": "10.2.0"
+    "Version": "10.2.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitkraken.svg"
   },
   {
     "Name": "Cmder",
@@ -1405,7 +1580,8 @@
     "Url": "https://github.com/cmderdev/cmder/releases/download/v1.3.24/cmder.zip",
     "Description": "Console Emulator",
     "Size": "18 MB",
-    "Version": "1.3.24"
+    "Version": "1.3.24",
+    "IconUrl": "https://api.iconify.design/mdi:console.svg"
   },
   {
     "Name": "Windows Terminal",
@@ -1413,7 +1589,8 @@
     "Url": "https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle",
     "Description": "Modern Terminal",
     "Size": "110 MB",
-    "Version": "1.20.11781.0"
+    "Version": "1.20.11781.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/windowsterminal.svg"
   },
   {
     "Name": "MongoDB Compass",
@@ -1421,7 +1598,8 @@
     "Url": "https://downloads.mongodb.com/compass/mongodb-compass-1.43.5-win32-x64.exe",
     "Description": "Database GUI",
     "Size": "157 MB",
-    "Version": "1.43.5"
+    "Version": "1.43.5",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg"
   },
   {
     "Name": "Docker CLI",
@@ -1429,7 +1607,8 @@
     "Url": "https://github.com/docker/cli/releases/download/v27.2.0/docker-cli-27.2.0-windows-x86_64.zip",
     "Description": "Command Line Tool for Docker",
     "Size": "42 MB",
-    "Version": "27.2.0"
+    "Version": "27.2.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg"
   },
   {
     "Name": "ThrottleStop",
@@ -1437,7 +1616,8 @@
     "Url": "https://www.techpowerup.com/download/techpowerup-throttlestop/",
     "Description": "CPU Power & Thermal Control",
     "Size": "2 MB",
-    "Version": "9.6"
+    "Version": "9.6",
+    "IconUrl": "https://api.iconify.design/mdi:speedometer-slow.svg"
   },
   {
     "Name": "Process Lasso",
@@ -1445,7 +1625,8 @@
     "Url": "https://bitsum.com/files/processlassosetup64.exe",
     "Description": "CPU Optimization & Automation",
     "Size": "5 MB",
-    "Version": "14.1.0"
+    "Version": "14.1.0",
+    "IconUrl": "https://api.iconify.design/mdi:chip.svg"
   },
   {
     "Name": "ParkControl",
@@ -1453,7 +1634,8 @@
     "Url": "https://bitsum.com/files/parkcontrolsetup64.exe",
     "Description": "Core Parking & Power Plan Manager",
     "Size": "2 MB",
-    "Version": "4.1.0"
+    "Version": "4.1.0",
+    "IconUrl": "https://api.iconify.design/mdi:cpu-64-bit.svg"
   },
   {
     "Name": "MSI Center",
@@ -1461,7 +1643,8 @@
     "Url": "https://download.msi.com/uti_exe/nb/MSI-Center-2.0.39.0.zip",
     "Description": "System Monitoring & Fan Control",
     "Size": "90 MB",
-    "Version": "2.0.39.0"
+    "Version": "2.0.39.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/msi.svg"
   },
   {
     "Name": "AMD Ryzen Master",
@@ -1469,7 +1652,8 @@
     "Url": "https://download.amd.com/Desktop/AMD-Ryzen-Master.exe",
     "Description": "CPU Tuning & Overclocking",
     "Size": "134 MB",
-    "Version": "2.13.0.2909"
+    "Version": "2.13.0.2909",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amd.svg"
   },
   {
     "Name": "Intel Extreme Tuning Utility (XTU)",
@@ -1477,7 +1661,8 @@
     "Url": "https://downloadmirror.intel.com/30304/eng/XTUSetup.exe",
     "Description": "CPU Overclocking & Monitoring",
     "Size": "32 MB",
-    "Version": "7.14.1.12"
+    "Version": "7.14.1.12",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/intel.svg"
   },
   {
     "Name": "PowerToys",
@@ -1485,7 +1670,8 @@
     "Url": "https://github.com/microsoft/PowerToys/releases/download/v0.85.0/PowerToysUserSetup-0.85.0-x64.exe",
     "Description": "Windows Productivity Enhancer",
     "Size": "182 MB",
-    "Version": "0.85.0"
+    "Version": "0.85.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/windows.svg"
   },
   {
     "Name": "QuickCPU",
@@ -1493,7 +1679,8 @@
     "Url": "https://coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup64.zip",
     "Description": "CPU Frequency & Power Manager",
     "Size": "6 MB",
-    "Version": "4.5.0.0"
+    "Version": "4.5.0.0",
+    "IconUrl": "https://api.iconify.design/mdi:microchip.svg"
   },
   {
     "Name": "ASUS Armoury Crate",
@@ -1501,7 +1688,8 @@
     "Url": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/Armoury_Crate_Installer.zip",
     "Description": "Performance & RGB Control",
     "Size": "110 MB",
-    "Version": "5.8.10.0"
+    "Version": "5.8.10.0",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/asus.svg"
   },
   {
     "Name": "NZXT CAM",
@@ -1509,7 +1697,8 @@
     "Url": "https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe",
     "Description": "System Monitor & Cooling Control",
     "Size": "112 MB",
-    "Version": "4.60.2"
+    "Version": "4.60.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nzxt.svg"
   },
   {
     "Name": "Recuva",
@@ -1517,7 +1706,8 @@
     "Url": "https://download.ccleaner.com/rcsetup153.exe",
     "Description": "File Recovery Tool",
     "Size": "7 MB",
-    "Version": "1.53.2096"
+    "Version": "1.53.2096",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ccleaner.svg"
   },
   {
     "Name": "TestDisk & PhotoRec",
@@ -1525,7 +1715,8 @@
     "Url": "https://www.cgsecurity.org/testdisk-7.2-WIP.win64.zip",
     "Description": "Partition & File Recovery",
     "Size": "25 MB",
-    "Version": "7.2-WIP"
+    "Version": "7.2-WIP",
+    "IconUrl": "https://api.iconify.design/mdi:file-restore.svg"
   },
   {
     "Name": "EaseUS Data Recovery Wizard Free",
@@ -1533,7 +1724,8 @@
     "Url": "https://down.easeus.com/product/drw_free",
     "Description": "Data Recovery",
     "Size": "48 MB",
-    "Version": "18.0"
+    "Version": "18.0",
+    "IconUrl": "https://api.iconify.design/mdi:harddisk-remove.svg"
   },
   {
     "Name": "MiniTool Power Data Recovery",
@@ -1541,7 +1733,8 @@
     "Url": "https://www.minitool.com/download-center/power-data-recovery.html",
     "Description": "File Recovery",
     "Size": "60 MB",
-    "Version": "12.1"
+    "Version": "12.1",
+    "IconUrl": "https://api.iconify.design/mdi:database-search.svg"
   },
   {
     "Name": "Disk Drill for Windows",
@@ -1549,7 +1742,8 @@
     "Url": "https://www.cleverfiles.com/downloads/DiskDrillSetup.exe",
     "Description": "File Recovery Utility",
     "Size": "23 MB",
-    "Version": "5.5.890"
+    "Version": "5.5.890",
+    "IconUrl": "https://api.iconify.design/mdi:medical-bag.svg"
   },
   {
     "Name": "AOMEI Partition Assistant",
@@ -1557,7 +1751,8 @@
     "Url": "https://www2.aomeisoftware.com/download/pa/PAssist_Std.exe",
     "Description": "Partition Manager",
     "Size": "52 MB",
-    "Version": "10.4.1"
+    "Version": "10.4.1",
+    "IconUrl": "https://api.iconify.design/mdi:partition.svg"
   },
   {
     "Name": "MiniTool Partition Wizard",
@@ -1565,7 +1760,8 @@
     "Url": "https://www.partitionwizard.com/download/partition-wizard-free-12-8.exe",
     "Description": "Partition Manager",
     "Size": "54 MB",
-    "Version": "12.8"
+    "Version": "12.8",
+    "IconUrl": "https://api.iconify.design/mdi:partition.svg"
   },
   {
     "Name": "EaseUS Partition Master Free",
@@ -1573,7 +1769,8 @@
     "Url": "https://down.easeus.com/product/epm_free",
     "Description": "Partition Manager",
     "Size": "45 MB",
-    "Version": "18.8"
+    "Version": "18.8",
+    "IconUrl": "https://api.iconify.design/mdi:partition.svg"
   },
   {
     "Name": "DiskGenius",
@@ -1581,7 +1778,8 @@
     "Url": "https://download.eassos.com/DGEngSetup551157_x64.exe",
     "Description": "Partition & Recovery Tool",
     "Size": "47 MB",
-    "Version": "5.5.1.157"
+    "Version": "5.5.1.157",
+    "IconUrl": "https://api.iconify.design/mdi:harddisk.svg"
   },
   {
     "Name": "R-Studio",
@@ -1589,7 +1787,8 @@
     "Url": "https://www.r-studio.com/downloads/RStudio64.exe",
     "Description": "Professional Data Recovery",
     "Size": "87 MB",
-    "Version": "9.4.191269"
+    "Version": "9.4.191269",
+    "IconUrl": "https://api.iconify.design/mdi:folder-search.svg"
   },
   {
     "Name": "Format Factory",
@@ -1597,7 +1796,8 @@
     "Url": "https://download.pcfreetime.com/FFSetup5.17.0.exe",
     "Description": "All-in-One File Converter",
     "Size": "105 MB",
-    "Version": "5.17.0"
+    "Version": "5.17.0",
+    "IconUrl": "https://api.iconify.design/mdi:file-video.svg"
   },
   {
     "Name": "Any Video Converter Free",
@@ -1605,7 +1805,8 @@
     "Url": "https://cdn.anvsoft.com/avc-free.exe",
     "Description": "Video Converter & Downloader",
     "Size": "72 MB",
-    "Version": "8.2.6"
+    "Version": "8.2.6",
+    "IconUrl": "https://api.iconify.design/mdi:video-switch.svg"
   },
   {
     "Name": "4K Video Downloader",
@@ -1613,7 +1814,8 @@
     "Url": "https://dl.4kdownload.com/app/4kvideodownloader_4.31.0_x64_online.exe",
     "Description": "Video Downloader (YouTube etc.)",
     "Size": "1.2 MB (installer)",
-    "Version": "4.31.0"
+    "Version": "4.31.0",
+    "IconUrl": "https://api.iconify.design/mdi:video-download.svg"
   },
   {
     "Name": "ClipGrab",
@@ -1621,7 +1823,8 @@
     "Url": "https://clipgrab.org/ClipGrab-3.9.10.exe",
     "Description": "Video Downloader & Converter",
     "Size": "85 MB",
-    "Version": "3.9.10"
+    "Version": "3.9.10",
+    "IconUrl": "https://api.iconify.design/mdi:download-box.svg"
   },
   {
     "Name": "Freemake Video Converter",
@@ -1629,7 +1832,8 @@
     "Url": "https://download.freemake.com/downloads/VideoConverter/FreemakeVideoConverter_4.1.13.154.exe",
     "Description": "Video & Audio Converter",
     "Size": "50 MB",
-    "Version": "4.1.13.154"
+    "Version": "4.1.13.154",
+    "IconUrl": "https://api.iconify.design/mdi:video-sync.svg"
   },
   {
     "Name": "MediaHuman YouTube Downloader",
@@ -1637,7 +1841,8 @@
     "Url": "https://www.mediahuman.com/files/YouTubeDownloader.exe",
     "Description": "YouTube & Playlist Downloader",
     "Size": "61 MB",
-    "Version": "3.9.9.87"
+    "Version": "3.9.9.87",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg"
   },
   {
     "Name": "Audials One (Trial)",
@@ -1645,7 +1850,8 @@
     "Url": "https://cdn.audials.com/audialsone/AudialsOne-2024.exe",
     "Description": "Audio & Video Downloader",
     "Size": "166 MB",
-    "Version": "2024.0"
+    "Version": "2024.0",
+    "IconUrl": "https://api.iconify.design/mdi:radio.svg"
   },
   {
     "Name": "Shutter Encoder",
@@ -1653,7 +1859,8 @@
     "Url": "https://www.shutterencoder.com/Shutter%20Encoder%2018.5%20Windows%2064bits.exe",
     "Description": "Pro Video Transcoder",
     "Size": "134 MB",
-    "Version": "18.5"
+    "Version": "18.5",
+    "IconUrl": "https://api.iconify.design/mdi:video-cog.svg"
   },
   {
     "Name": "FFmpeg (Build)",
@@ -1661,7 +1868,8 @@
     "Url": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.0.2-full_build.7z",
     "Description": "Command-Line Media Converter",
     "Size": "120 MB",
-    "Version": "7.0.2"
+    "Version": "7.0.2",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ffmpeg.svg"
   },
   {
     "Name": "PingPlotter Free",
@@ -1669,7 +1877,8 @@
     "Url": "https://www.pingplotter.com/downloads/pingplotter_install.exe",
     "Description": "Network Latency Analyzer",
     "Size": "22 MB",
-    "Version": "5.28.2"
+    "Version": "5.28.2",
+    "IconUrl": "https://api.iconify.design/mdi:chart-timeline-variant.svg"
   },
   {
     "Name": "NetLimiter 5",
@@ -1677,7 +1886,8 @@
     "Url": "https://www.netlimiter.com/download/nl5setup.exe",
     "Description": "Bandwidth Control & Monitor",
     "Size": "8 MB",
-    "Version": "5.3.12.0"
+    "Version": "5.3.12.0",
+    "IconUrl": "https://api.iconify.design/mdi:network-strength-4.svg"
   },
   {
     "Name": "Wireshark Portable",
@@ -1685,7 +1895,8 @@
     "Url": "https://portableapps.com/downloading/?a=WiresharkPortable&s=s&d=pa&n=Wireshark%20Portable",
     "Description": "Network Packet Analyzer",
     "Size": "125 MB",
-    "Version": "4.2.6"
+    "Version": "4.2.6",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wireshark.svg"
   },
   {
     "Name": "Angry IP Scanner",
@@ -1693,7 +1904,8 @@
     "Url": "https://github.com/angryip/ipscan/releases/download/3.9.1/ipscan-3.9.1-setup.exe",
     "Description": "IP & Port Scanner",
     "Size": "5 MB",
-    "Version": "3.9.1"
+    "Version": "3.9.1",
+    "IconUrl": "https://api.iconify.design/mdi:ip-network.svg"
   },
   {
     "Name": "Advanced IP Scanner",
@@ -1701,7 +1913,8 @@
     "Url": "https://www.advanced-ip-scanner.com/download/Advanced_IP_Scanner_2.5.4594.1.exe",
     "Description": "Local Network Scanner",
     "Size": "19 MB",
-    "Version": "2.5.4594.1"
+    "Version": "2.5.4594.1",
+    "IconUrl": "https://api.iconify.design/mdi:radar.svg"
   },
   {
     "Name": "Fing Desktop",
@@ -1709,7 +1922,8 @@
     "Url": "https://get.fing.com/FingDesktopSetup.exe",
     "Description": "Device & Network Discovery",
     "Size": "54 MB",
-    "Version": "3.10.3"
+    "Version": "3.10.3",
+    "IconUrl": "https://api.iconify.design/mdi:router-wireless.svg"
   },
   {
     "Name": "NetStress",
@@ -1717,7 +1931,8 @@
     "Url": "https://nutsaboutnets-downloads.s3.amazonaws.com/netstress/netstress_2.0.9686_setup.exe",
     "Description": "LAN Throughput Tester",
     "Size": "6 MB",
-    "Version": "2.0.9686"
+    "Version": "2.0.9686",
+    "IconUrl": "https://api.iconify.design/mdi:network.svg"
   },
   {
     "Name": "IP Tools for Windows",
@@ -1725,7 +1940,8 @@
     "Url": "https://www.pingmonitorsoftware.com/download/iptools_setup.exe",
     "Description": "Network Toolkit (Ping, Traceroute, DNS)",
     "Size": "14 MB",
-    "Version": "2.9.1"
+    "Version": "2.9.1",
+    "IconUrl": "https://api.iconify.design/mdi:lan-connect.svg"
   },
   {
     "Name": "DNS Jumper",
@@ -1733,7 +1949,8 @@
     "Url": "https://www.sordum.org/files/download/dns-jumper/DNSJumper.zip",
     "Description": "DNS Changer & Tester",
     "Size": "1 MB",
-    "Version": "2.3"
+    "Version": "2.3",
+    "IconUrl": "https://api.iconify.design/mdi:dns-outline.svg"
   },
   {
     "Name": "Macrium Reflect Free",
@@ -1741,7 +1958,8 @@
     "Url": "https://updates.macrium.com/reflect/v8/reflect_setup_free_x64.exe",
     "Description": "Disk Imaging & Backup",
     "Size": "120 MB",
-    "Version": "8.1.7784"
+    "Version": "8.1.7784",
+    "IconUrl": "https://api.iconify.design/mdi:backup-restore.svg"
   },
   {
     "Name": "AOMEI Backupper Standard",
@@ -1749,7 +1967,8 @@
     "Url": "https://www2.aomeisoftware.com/download/ab/BackupperFull.exe",
     "Description": "Backup & Clone Utility",
     "Size": "110 MB",
-    "Version": "7.3.3"
+    "Version": "7.3.3",
+    "IconUrl": "https://api.iconify.design/mdi:backup-restore.svg"
   },
   {
     "Name": "EaseUS Todo Backup Free",
@@ -1757,7 +1976,8 @@
     "Url": "https://down.easeus.com/product/tb_free",
     "Description": "System Backup & Restore",
     "Size": "44 MB",
-    "Version": "2024"
+    "Version": "2024",
+    "IconUrl": "https://api.iconify.design/mdi:cloud-upload.svg"
   },
   {
     "Name": "Clonezilla Live",
@@ -1765,7 +1985,8 @@
     "Url": "https://clonezilla.org/downloads/stable/clonezilla-live-3.1.3-16-amd64.iso",
     "Description": "Partition & Disk Cloner (ISO)",
     "Size": "350 MB",
-    "Version": "3.1.3-16"
+    "Version": "3.1.3-16",
+    "IconUrl": "https://api.iconify.design/mdi:content-copy.svg"
   },
   {
     "Name": "Paragon Backup & Recovery CE",
@@ -1773,7 +1994,8 @@
     "Url": "https://dl.paragon-software.com/free/BR_17.9.3_x64.exe",
     "Description": "Backup Utility",
     "Size": "142 MB",
-    "Version": "17.9.3"
+    "Version": "17.9.3",
+    "IconUrl": "https://api.iconify.design/mdi:shield-sync.svg"
   },
   {
     "Name": "Redo Rescue",
@@ -1781,7 +2003,8 @@
     "Url": "https://github.com/redorescue/redorescue/releases/download/2.0.7/redo-rescue-2.0.7.iso",
     "Description": "System Recovery ISO",
     "Size": "720 MB",
-    "Version": "2.0.7"
+    "Version": "2.0.7",
+    "IconUrl": "https://api.iconify.design/mdi:lifebuoy.svg"
   },
   {
     "Name": "Veeam Agent for Windows Free",
@@ -1789,7 +2012,8 @@
     "Url": "https://download2.veeam.com/VeeamAgentWindows_6.1.1.124.exe",
     "Description": "Enterprise Backup Client",
     "Size": "160 MB",
-    "Version": "6.1.1.124"
+    "Version": "6.1.1.124",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/veeam.svg"
   },
   {
     "Name": "R-Drive Image",
@@ -1797,7 +2021,8 @@
     "Url": "https://www.drive-image.com/downloads/RDriveImage7.exe",
     "Description": "Disk Image & Cloning Tool",
     "Size": "83 MB",
-    "Version": "7.0.7009"
+    "Version": "7.0.7009",
+    "IconUrl": "https://api.iconify.design/mdi:disc.svg"
   },
   {
     "Name": "MiniTool ShadowMaker Free",
@@ -1805,7 +2030,8 @@
     "Url": "https://www.minitool.com/download-center/shadowmaker.html",
     "Description": "Backup & Restore Utility",
     "Size": "77 MB",
-    "Version": "4.5"
+    "Version": "4.5",
+    "IconUrl": "https://api.iconify.design/mdi:cloud-sync.svg"
   },
   {
     "Name": "Acronis Cyber Protect Home Office (Trial)",
@@ -1813,7 +2039,8 @@
     "Url": "https://dl.acronis.com/u/AcronisCyberProtectHomeOffice.exe",
     "Description": "Comprehensive Backup Suite",
     "Size": "870 MB",
-    "Version": "27.0.1.41000"
+    "Version": "27.0.1.41000",
+    "IconUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/acronis.svg"
   },
   {
     "Name": "Active@ KillDisk Free",
@@ -1821,6 +2048,7 @@
     "Url": "https://www.killdisk.com/download-freeware.htm",
     "Description": "Data Erasure Utility",
     "Size": "19 MB",
-    "Version": "15.0.25"
+    "Version": "15.0.25",
+    "IconUrl": "https://api.iconify.design/mdi:delete-forever.svg"
   }
 ]
