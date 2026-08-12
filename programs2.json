@@ -69,7 +69,7 @@
     "Description": "Torrent Client",
     "Size": "2.5 MB (installer)",
     "Version": "7.11.0",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/bittorrent.svg"
+    "IconUrl": "https://images.icon-icons.com/2429/PNG/512/bittorrent_logo_icon_147310.png"
   },
   {
     "Name": "Malwarebytes",
@@ -78,7 +78,7 @@
     "Description": "Anti-Malware",
     "Size": "2.5 MB (installer)",
     "Version": "5.1.11",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/malwarebytes.svg"
+    "IconUrl": "https://images.icon-icons.com/3053/PNG/512/malwarebytes_macos_bigsur_icon_189999.png"
   },
   {
     "Name": "Avast Free Antivirus",
@@ -87,7 +87,7 @@
     "Description": "Antivirus",
     "Size": "2.6 MB (installer)",
     "Version": "24.8.9388",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/avast.svg"
+    "IconUrl": "https://images.icon-icons.com/195/PNG/256/Avast_Antivirus_23633.png"
   },
   {
     "Name": "AVG AntiVirus Free",
@@ -105,7 +105,7 @@
     "Description": "Antivirus",
     "Size": "14 MB",
     "Version": "27.0.35.140",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/bitdefender.svg"
+    "IconUrl": "https://images.icon-icons.com/2407/PNG/512/bitdefender_icon_146218.png"
   },
   {
     "Name": "Kaspersky Standard",
@@ -114,7 +114,7 @@
     "Description": "Antivirus",
     "Size": "3 MB (installer)",
     "Version": "21.16.6.467",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/kaspersky.svg"
+    "IconUrl": "https://images.icon-icons.com/74/PNG/256/kaspersky_14598.png"
   },
   {
     "Name": "GlassWire",
@@ -123,7 +123,7 @@
     "Description": "Network Monitor / Firewall",
     "Size": "72 MB",
     "Version": "3.3.680",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/glasswire.svg"
+    "IconUrl": "https://www.glasswire.com/img/favicon-192.png"
   },
   {
     "Name": "ZoneAlarm Free Firewall",
@@ -141,7 +141,7 @@
     "Description": "File Manager",
     "Size": "9.5 MB",
     "Version": "11.03",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/totalcommander.svg"
+    "IconUrl": "https://www.ghisler.com/favicon.ico"
   },
   {
     "Name": "FreeCommander XE",
@@ -150,7 +150,7 @@
     "Description": "File Manager",
     "Size": "15 MB",
     "Version": "2024 Build 901",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/freecommander.svg"
+    "IconUrl": "https://www.freecommander.com/Images/logo/fcLogo150x150.png"
   },
   {
     "Name": "WinSCP",
@@ -159,7 +159,7 @@
     "Description": "FTP/SFTP Client",
     "Size": "11 MB",
     "Version": "6.3.5",
-    "IconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/winscp.svg"
+    "IconUrl": "https://winscp.net/favicon.ico"
   },
   {
     "Name": "Everything",
